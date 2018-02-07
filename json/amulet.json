@@ -312,7 +312,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/1302.png",
     "name": "Amulette Volcanique",
     "set": {
-      "setId": "454",
+      "setID": "454",
       "setName": "Panoplie Volcanique"
     },
     "type": "Amulette",

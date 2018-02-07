@@ -5,7 +5,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/17400.png",
     "name": "Sac Volcanique",
     "set": {
-      "setId": "454",
+      "setID": "454",
       "setName": "Panoplie Volcanique"
     },
     "type": "Sac à dos",

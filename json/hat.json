@@ -520,7 +520,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/16539.png",
     "name": "Chapeau de Tournoyé",
     "set": {
-      "setId": "455",
+      "setID": "455",
       "setName": "Panoplie Submergée"
     },
     "type": "Chapeau",
@@ -778,7 +778,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/16537.png",
     "name": "Masque Ardent",
     "set": {
-      "setId": "453",
+      "setID": "453",
       "setName": "Panoplie Ardente"
     },
     "type": "Chapeau",
@@ -1169,7 +1169,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/16540.png",
     "name": "Masque de Funespadon",
     "set": {
-      "setId": "456",
+      "setID": "456",
       "setName": "Panoplie de Bethel"
     },
     "type": "Chapeau",

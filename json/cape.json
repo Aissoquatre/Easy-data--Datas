@@ -580,7 +580,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/17401.png",
     "name": "Cape de Crânonier",
     "set": {
-      "setId": "455",
+      "setID": "455",
       "setName": "Panoplie Submergée"
     },
     "type": "Cape",
@@ -879,7 +879,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/17399.png",
     "name": "Cape Ardente",
     "set": {
-      "setId": "453",
+      "setID": "453",
       "setName": "Panoplie Ardente"
     },
     "type": "Cape",

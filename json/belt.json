@@ -252,7 +252,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/10330.png",
     "name": "Sangle Oriole",
     "set": {
-      "setId": "455",
+      "setID": "455",
       "setName": "Panoplie Submergée"
     },
     "type": "Ceinture",
@@ -615,7 +615,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/10331.png",
     "name": "Culotte de Bethel",
     "set": {
-      "setId": "456",
+      "setID": "456",
       "setName": "Panoplie de Bethel"
     },
     "type": "Ceinture",

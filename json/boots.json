@@ -690,7 +690,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/11332.png",
     "name": "Chaussures Ardentes",
     "set": {
-      "setId": "453",
+      "setID": "453",
       "setName": "Panoplie Ardente"
     },
     "type": "Bottes",
@@ -719,7 +719,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/11333.png",
     "name": "Sabots Volcaniques",
     "set": {
-      "setId": "454",
+      "setID": "454",
       "setName": "Panoplie Volcanique"
     },
     "type": "Bottes",
@@ -1082,7 +1082,7 @@
     "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/11334.png",
     "name": "Chaussons de Macrab",
     "set": {
-      "setId": "456",
+      "setID": "456",
       "setName": "Panoplie de Bethel"
     },
     "type": "Bottes",
