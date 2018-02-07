@@ -37,8 +37,15 @@
     "type": "Dofus",
     "level": "180",
     "condition": [],
-    "stats": [],
-    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+    "stats": [
+	  "40 Résistance Neutre",
+	  "40 Résistance Terre",
+	  "40 Résistance Feu",
+	  "40 Résistance Eau",
+	  "40 Résistance Air",
+	  "À la fin du tour, les dommages de la prochaine attaque subie sont réduits de 50%."
+	],
+    "description": "Si sa blancheur n'a pas d'égal, c'est que Dardondakal le Dragon blanc, blanchit le Dofus Ivoire à grands coups d'haleine chaque matin (un vieux truc que lui a refilé sa grand-mère Dragon)."
   },
   {
     "id": "7043",
