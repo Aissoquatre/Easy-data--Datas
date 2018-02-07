@@ -1,0 +1,3663 @@
+[
+  {
+    "id": "12642",
+    "idImg": "151027",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151027.png",
+    "name": "Pousseur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Dommages Poussée"
+    ],
+    "description": "Ce Trophée permet de faire un peu plus mal à vos adversaires lorsque vous les poussez contre un arbre, du marbre ou un autre adversaire glabre."
+  },
+  {
+    "id": "12697",
+    "idImg": "151060",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151060.png",
+    "name": "Ravageur Neutre majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12 Dommages Neutre"
+    ],
+    "description": "Ce trophée augmente les dommages d'élément Neutre. Il a été imaginé par un célèbre forgeur de hache : Giuseppe Hacheneutre."
+  },
+  {
+    "id": "13753",
+    "idImg": "151087",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151087.png",
+    "name": "Vagabond majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Fuite",
+      "-32 Tacle"
+    ],
+    "description": "Ce Trophée n'est pas responsable de la fuite des cerveaux."
+  },
+  {
+    "id": "13777",
+    "idImg": "151111",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151111.png",
+    "name": "Saccageur Neutre majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "20 Dommages Neutre",
+      "-8 % Résistance Eau"
+    ],
+    "description": "Le Rube ou la Pandrista ? Ce Trophée ne vous aidera pas à prendre une décision."
+  },
+  {
+    "id": "13816",
+    "idImg": "151150",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151150.png",
+    "name": "Muraille Feu majeure",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "40 Résistance Feu",
+      "-8% Résistance Terre"
+    ],
+    "description": "Ce Trophée pourrait vous sauver la vie dans le feu de l'action."
+  },
+  {
+    "id": "16187",
+    "idImg": "151195",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151195.png",
+    "name": "Déserteur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Fuite"
+    ],
+    "description": "Ce Trophée ne vous sera d'aucune utilité lors de votre traversée du désert."
+  },
+  {
+    "id": "16257",
+    "idImg": "151225",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151225.png",
+    "name": "Dévastateur Neutre majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "20 Dommages Neutre"
+    ],
+    "description": "Là où passe votre Dragodinde, l'herbe ne repousse pas."
+  },
+  {
+    "id": "16264",
+    "idImg": "151213",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151213.png",
+    "name": "Dévastateur Eau majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "20 Dommages Eau"
+    ],
+    "description": "Vous avez toujours pensé pouvoir vivre d'amour et d'eau fraîche. Mais vous passer des bains chauds en hiver était trop difficile."
+  },
+  {
+    "id": "16310",
+    "idImg": "151252",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151252.png",
+    "name": "Solide majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "96 Résistance Poussée"
+    ],
+    "description": "Solide mais pas incassable. C'est avec ces mots que vos alliés vous décrivirent juste avant de vous casser les deux gros orteils suite à une mauvaise blague."
+  },
+  {
+    "id": "12636",
+    "idImg": "151030",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151030.png",
+    "name": "Fugitif majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "16 Esquive PM"
+    ],
+    "description": "Ce Trophée permet d'échapper à tous ceux qui essayent de vous empêcher d'atteindre votre destination. Ne fonctionne pas contre ceux qui vous empêchent d'atteindre votre destinée."
+  },
+  {
+    "id": "12706",
+    "idImg": "151048",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151048.png",
+    "name": "Porteur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "1000 Pods"
+    ],
+    "description": "Ce Trophée permet d'augmenter le poids maximum portable. Mais il n'est pas assez puissant pour vous aider à supporter le poids de votre conscience."
+  },
+  {
+    "id": "13792",
+    "idImg": "151126",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151126.png",
+    "name": "Paralyseur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "24 Retrait PA",
+      "-24 Esquive PM"
+    ],
+    "description": "Ce Trophée paralyse de honte vos coéquipiers à chaque fois que vous vous trompez de cible. Dissuasif pour certains, amusant pour d'autres."
+  },
+  {
+    "id": "13762",
+    "idImg": "151096",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151096.png",
+    "name": "Astucieux majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "100 Intelligence",
+      "-200 Vitalité"
+    ],
+    "description": "Ce Trophée vous rendra plus astucieux et vous permettra d'atteindre un score de 3 sur l'échelle de l'intelligence Bwork dont les bornes sont comprises entre moins l'infini et 1."
+  },
+  {
+    "id": "13786",
+    "idImg": "151120",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151120.png",
+    "name": "Saccageur Air majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "20 Dommages Air",
+      "-8% Résistance Feu"
+    ],
+    "description": "On raconte à propos de ce Trophée qu'il force son propriétaire à combattre les fesses à l'air. Soudain, vous êtes pris d'une irrésistible envie de l'équiper."
+  },
+  {
+    "id": "13801",
+    "idImg": "151135",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151135.png",
+    "name": "Bousculeur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "64 Dommages Poussée",
+      "-32 Tacle"
+    ],
+    "description": "Ce Trophée permet de casser les pieds des autres aventuriers à chaque fois que vous les croisez. Après mûre réflexion, vous en déduisez que toutes vos anciennes conquêtes amoureuses devaient en être équipées."
+  },
+  {
+    "id": "13825",
+    "idImg": "151159",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151159.png",
+    "name": "Puissant majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "40 Puissance"
+    ],
+    "description": "La publicité de ce Trophée est plutôt explicite : \"Pour une poignée de Kamas seulement, combattez l'impuissance et retrouvez votre vigueur d'antan.\" A ne pas mettre entre toutes les mains."
+  },
+  {
+    "id": "16196",
+    "idImg": "151174",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151174.png",
+    "name": "Enragé majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "100 Force"
+    ],
+    "description": "La bave sur vos lèvres vous permettra de simuler le passage d'un Kaskargo lorsque vous mordrez la poussière."
+  },
+  {
+    "id": "16204",
+    "idImg": "151171",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151171.png",
+    "name": "Érudit majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "100 Intelligence"
+    ],
+    "description": "Alliez-vous avec des Bworks pour devenir l'intellectuel du groupe."
+  },
+  {
+    "id": "16329",
+    "idImg": "151243",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151243.png",
+    "name": "Carapace Air majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12% Résistance Air"
+    ],
+    "description": "Ce trophée vous protégera des cyclones, mais pas des six clones."
+  },
+  {
+    "id": "12651",
+    "idImg": "151009",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151009.png",
+    "name": "Cuirassé Air majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "24 Résistance Air"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Air mais pas des courants d'air."
+  },
+  {
+    "id": "12682",
+    "idImg": "151021",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151021.png",
+    "name": "Cuirassé Terre majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "24 Résistance Terre"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Terre sauf si vous vous trouvez dans la terre du milieu."
+  },
+  {
+    "id": "12714",
+    "idImg": "151003",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151003.png",
+    "name": "Acrobate majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "60 Agilité"
+    ],
+    "description": "Ce Trophée permet d'augmenter son Agilité. Vous allez enfin réussir à monter sur une échelle sans tomber."
+  },
+  {
+    "id": "12645",
+    "idImg": "151006",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151006.png",
+    "name": "Adamantin majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "48 Résistance Poussée"
+    ],
+    "description": "Ce Trophée permet de moins souffrir lorsque vos adversaires ou vos alliés vous poussent contre un arbre, une personne, une bestiole ou encore tout simplement un gros truc dur. Ne protège pas des gifles même celles prodiguées par des mains calleuses."
+  },
+  {
+    "id": "12690",
+    "idImg": "151054",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151054.png",
+    "name": "Ravageur Eau majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12 Dommages Eau"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Eau mais il reste inutile si vous désirez mettre de l'eau dans votre vin."
+  },
+  {
+    "id": "12708",
+    "idImg": "151075",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151075.png",
+    "name": "Soigneur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "16 Soins"
+    ],
+    "description": "Ce Trophée permet d'augmenter les soins. Ce n'est pas avec ça que vous aurez l'air viril."
+  },
+  {
+    "id": "13756",
+    "idImg": "151090",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151090.png",
+    "name": "Docteur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Soins",
+      "-200 Vitalité"
+    ],
+    "description": "Ce Trophée vous permet de jouer au docteur avec vos alliés ou avec vos ennemis si vos combats sont trop faciles."
+  },
+  {
+    "id": "13819",
+    "idImg": "151153",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151153.png",
+    "name": "Muraille Eau majeure",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "40 Résistance Eau",
+      "-8 % Résistance Neutre"
+    ],
+    "description": "Ne jetez pas ce Trophée avec l'eau du bain."
+  },
+  {
+    "id": "16267",
+    "idImg": "151222",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151222.png",
+    "name": "Dévastateur Air majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "20 Dommages Air"
+    ],
+    "description": "Vous chercherez toute votre vie la constante de l'air sans jamais la trouver."
+  },
+  {
+    "id": "16281",
+    "idImg": "151198",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151198.png",
+    "name": "Temporiseur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "24 Retrait PM"
+    ],
+    "description": "Votre technique n'est pas d'être le plus rapide, vous cherchez juste à ralentir les autres pour ne pas être le plus lent. Cette technique a déjà fait ses preuves dans toutes les administrations du Monde des Douze."
+  },
+  {
+    "id": "16306",
+    "idImg": "151207",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151207.png",
+    "name": "Culbuteur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "64 Dommages Poussée"
+    ],
+    "description": "Le Culbuteur, c'est le surnom qui vous était donné lorsque vous retourniez votre veste sans avoir de veste."
+  },
+  {
+    "id": "16313",
+    "idImg": "151228",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151228.png",
+    "name": "Fonceur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "800 Initiative"
+    ],
+    "description": "Rien ne sert de mourir ; il faut fuir à point."
+  },
+  {
+    "id": "16320",
+    "idImg": "151246",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151246.png",
+    "name": "Carapace Neutre majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12% Résistance Neutre"
+    ],
+    "description": "Ce trophée vous protégera de tous les indécis qui ne savent pas choisir leur camp lors d'un affrontement."
+  },
+  {
+    "id": "12639",
+    "idImg": "151042",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151042.png",
+    "name": "Insaisissable majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "16 Esquive PA"
+    ],
+    "description": "Ce Trophée permet d'échapper à tous ceux qui essayent de limiter vos actions. Ne fonctionne pas contre les banquiers."
+  },
+  {
+    "id": "12716",
+    "idImg": "151045",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151045.png",
+    "name": "Joueur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "60 Chance"
+    ],
+    "description": "Ce Trophée permet d'augmenter sa Chance. Il ne semble pas fonctionner pour les tentatives de séduction désespérées."
+  },
+  {
+    "id": "12747",
+    "idImg": "151063",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151063.png",
+    "name": "Ravageur Terre majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12 Dommages Terre"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Terre. Seuls les vers de Terre seront impressionnés."
+  },
+  {
+    "id": "13771",
+    "idImg": "151105",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151105.png",
+    "name": "Bastion majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Résistance Critiques",
+      "-32 Dommages Critiques"
+    ],
+    "description": "Ce Trophée vous protégera des coups les plus fourbes mais vous empêchera d'en commettre. Saisissez cette opportunité de ressembler à quelqu'un de bien."
+  },
+  {
+    "id": "13795",
+    "idImg": "151129",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151129.png",
+    "name": "Imprenable majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Esquive PA",
+      "-32 Esquive PM"
+    ],
+    "description": "Ce Trophée diffuse à intervalles réguliers de petites décharges de foudre permettant aux muscles de se contracter et d'éviter de s'engourdir. Juste assez pour ne pas s'endormir lors des repas de famille."
+  },
+  {
+    "id": "13810",
+    "idImg": "151144",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151144.png",
+    "name": "Muraille Terre majeure",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "40 Résistance Terre",
+      "-8% Résistance Air"
+    ],
+    "description": "Ce Trophée protège des chutes de terre. Très pratique pour labourer des plafonds en terre cuite."
+  },
+  {
+    "id": "13834",
+    "idImg": "151168",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151168.png",
+    "name": "Féroce majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12 Dommages Eau",
+      "12 Dommages Neutre",
+      "12 Dommages Air",
+      "12 Dommages Terre",
+      "12 Dommages Feu",
+      "-24 Dommages Critiques"
+    ],
+    "description": "Avec ce Trophée vos ennemis se sauveront en pleurant, ils comprendront que vous êtes capable du meilleur comme du pire mais surtout du pire."
+  },
+  {
+    "id": "16251",
+    "idImg": "151249",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151249.png",
+    "name": "Fortification majeure",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Résistance Critiques"
+    ],
+    "description": "Cette terreur des bacs à sable qui avait écrasé votre château d'un poing vengeur vous a traumatisé à vie. Le temps est venu de lui faire payer cet affront."
+  },
+  {
+    "id": "16245",
+    "idImg": "151180",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151180.png",
+    "name": "Cascadeur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "100 Agilité"
+    ],
+    "description": "Cette chute lamentable sur une peau de banane était une cascade destinée à faire rire vos amis. Personne ne vous croit, mais tout le monde a bien rigolé."
+  },
+  {
+    "id": "16339",
+    "idImg": "151259",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151259.png",
+    "name": "Sanguinaire majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12 Dommages"
+    ],
+    "description": "Vos amis ont l'eau à la bouche quand ils vous voient saigner mais refusent de goûter votre délicieuse soupe à l'ail. Étrange."
+  },
+  {
+    "id": "12630",
+    "idImg": "151069",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151069.png",
+    "name": "Ralentisseur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12 Retrait PM"
+    ],
+    "description": "Ce Trophée permet de mieux ralentir les déplacements des adversaires pour les rattraper plus rapidement et leur infliger une humiliation méritée, comme une fessée culotée par exemple."
+  },
+  {
+    "id": "12654",
+    "idImg": "151012",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151012.png",
+    "name": "Cuirassé Eau majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "24 Résistance Eau"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Eau mais pas des attaques de chasses d'eau."
+  },
+  {
+    "id": "12685",
+    "idImg": "151018",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151018.png",
+    "name": "Cuirassé Neutre majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "24 Résistance Neutre"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Neutre mais n'empêchera pas vos adversaires de sortir de leur neutralité lorsque les hostilités débuteront."
+  },
+  {
+    "id": "12724",
+    "idImg": "151033",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151033.png",
+    "name": "Furibond majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "60 Force"
+    ],
+    "description": "Ce Trophée permet d'augmenter la Force. Attention cet objet ne peut pas convenir pour remplacer un cerveau déficient."
+  },
+  {
+    "id": "13765",
+    "idImg": "151099",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151099.png",
+    "name": "Equilibriste majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "100 Agilité",
+      "-200 Vitalité"
+    ],
+    "description": "Ce Trophée est assez puissant pour tout équilibrer. A part les sorts peut-être."
+  },
+  {
+    "id": "13789",
+    "idImg": "151123",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151123.png",
+    "name": "Entraveur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "24 Retrait PM",
+      "-24 Esquive PA"
+    ],
+    "description": "Ce Trophée permet de ralentir la charge d'une épouse enragée ou la fuite d'un mari esquivant les tâches ménagères. Enfin un Trophée pour tous."
+  },
+  {
+    "id": "13804",
+    "idImg": "151138",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151138.png",
+    "name": "Inflexible majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "96 Résistance Poussée",
+      "-32 Fuite"
+    ],
+    "description": "Quand la pression devient trop forte, quand les lourds deviennent trop lourds et quand le poids de votre conscience dépasse le poids de vos années, il devient temps d'utiliser ce Trophée."
+  },
+  {
+    "id": "13828",
+    "idImg": "151162",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151162.png",
+    "name": "Robuste majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "80 Puissance",
+      "-12% Critique"
+    ],
+    "description": "Vos ennemis pourront profiter de son arrière goût de rouille antique quand ils se casseront les dents dessus."
+  },
+  {
+    "id": "12624",
+    "idImg": "151081",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151081.png",
+    "name": "Tacleur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "16 Tacle"
+    ],
+    "description": "Ce Trophée permet de garder les pleutres à proximité. Pour mieux les piétiner."
+  },
+  {
+    "id": "12648",
+    "idImg": "151066",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151066.png",
+    "name": "Rempart majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12 Résistance Critiques"
+    ],
+    "description": "Ce Trophée protège des coups critiques dans les endroits critiques lors des situations critiques. Une fois équipé, vous subirez un effet secondaire désagréable pour vos proches : vous ne subirez plus la critique."
+  },
+  {
+    "id": "12679",
+    "idImg": "151015",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151015.png",
+    "name": "Cuirassé Feu majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "24 Résistance Feu"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Feu mais pas des Feux de l'amour."
+  },
+  {
+    "id": "12693",
+    "idImg": "151057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151057.png",
+    "name": "Ravageur Feu majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12 Dommages Feu"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Feu. L'étiquette qui y était accrochée indiquait : \"Grâce à lui vous êtes tout feu tout flamme et le coeur de votre ennemi s'enflamme\"."
+  },
+  {
+    "id": "13759",
+    "idImg": "151093",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151093.png",
+    "name": "Forcené majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "100 Force",
+      "-200 Vitalité"
+    ],
+    "description": "Ce Trophée permet de prouver que la Force est très puissante dans votre famille."
+  },
+  {
+    "id": "13780",
+    "idImg": "151114",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151114.png",
+    "name": "Saccageur Feu majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "20 Dommages Feu",
+      "-8% Résistance Terre"
+    ],
+    "description": "Ce Trophée vous permettra de mettre le feu au lac."
+  },
+  {
+    "id": "16190",
+    "idImg": "151189",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151189.png",
+    "name": "Guérisseur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Soins"
+    ],
+    "description": "Ce Trophée vous aide à guérir vos alliés en distribuant de bons conseils : \"un grand verre d'eau soigne tous les maux, un grand bol de sciure soigne toutes les fractures\"."
+  },
+  {
+    "id": "16260",
+    "idImg": "151216",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151216.png",
+    "name": "Dévastateur Feu majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "20 Dommages Feu"
+    ],
+    "description": "Vous faîtes feu de tout bois lorsqu'il s'agit de prendre l'avantage sur votre adversaire : jurons, provocations, mauvaises blagues et peaux de bananes."
+  },
+  {
+    "id": "16284",
+    "idImg": "151201",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151201.png",
+    "name": "Étourdisseur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "24 Retrait PA"
+    ],
+    "description": "Cogner votre tête contre celle de votre adversaire afin de l'étourdir semblait être une action tactique intéressante. Jusqu'à ce que vous vous rappeliez qu'il avait un casque et pas vous."
+  },
+  {
+    "id": "16316",
+    "idImg": "151240",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151240.png",
+    "name": "Carapace Terre majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12% Résistance Terre"
+    ],
+    "description": "Ce trophée repousse la poussière chez votre voisin. Si vous l'utilisez à l'envers, il pourrait peut-être repousser votre voisin dans la poussière."
+  },
+  {
+    "id": "16323",
+    "idImg": "151237",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151237.png",
+    "name": "Carapace Feu majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12% Résistance Feu"
+    ],
+    "description": "Ce trophée fera un excellent cendrier si vous préférez utiliser le calumet de la paix plutôt que de combattre."
+  },
+  {
+    "id": "12687",
+    "idImg": "151051",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151051.png",
+    "name": "Ravageur Air majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12 Dommages Air"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Air de ceux qui ne manquent pas d'air."
+  },
+  {
+    "id": "12719",
+    "idImg": "151072",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151072.png",
+    "name": "Savant majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "60 Intelligence"
+    ],
+    "description": "Ce Trophée permet d'augmenter l'Intelligence. Mais pourquoi n'est-il pas offert aux vendeurs à la criée du Zaap d'Astrub ?"
+  },
+  {
+    "id": "12726",
+    "idImg": "151078",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151078.png",
+    "name": "Survivant majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "160 Vitalité"
+    ],
+    "description": "Ce Trophée permet d'augmenter la Vitalité. Ses effets contre l'impuissance n'ont jamais pu être prouvés."
+  },
+  {
+    "id": "13750",
+    "idImg": "151084",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151084.png",
+    "name": "Bloqueur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Tacle",
+      "-32 Fuite"
+    ],
+    "description": "Ce Trophée permet de coller les malotrus à vos bottes, ou l'inverse. N'oubliez pas de bien serrer vos lacets."
+  },
+  {
+    "id": "13774",
+    "idImg": "151108",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151108.png",
+    "name": "Saccageur Terre majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "20 Dommages Terre",
+      "-8% Résistance Air"
+    ],
+    "description": "Ce Trophée vous permettra de toujours garder les pieds sur terre. Peut provoquer de terribles douleurs si vous utilisez une monture volante."
+  },
+  {
+    "id": "13798",
+    "idImg": "151132",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151132.png",
+    "name": "Evanescent majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Esquive PM",
+      "-32 Esquive PA"
+    ],
+    "description": "De ce Trophée suinte un liquide visqueux vous permettant d'esquiver les tentatives d'entrave de vos adversaires. Vos câlins seront également beaucoup moins rugueux."
+  },
+  {
+    "id": "13813",
+    "idImg": "151147",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151147.png",
+    "name": "Muraille Neutre majeure",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "40 Résistance Neutre",
+      "-8 % Résistance Eau"
+    ],
+    "description": "Ce Trophée vous empêchera de prendre des décisions en combat et vous ne pourrez plus vous blesser en tentant de lancer un sort."
+  },
+  {
+    "id": "16184",
+    "idImg": "151192",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151192.png",
+    "name": "Obstructeur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Tacle"
+    ],
+    "description": "A défaut de trépasser, vos ennemis ne passeront pas."
+  },
+  {
+    "id": "16254",
+    "idImg": "151219",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151219.png",
+    "name": "Dévastateur Terre majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "20 Dommages Terre"
+    ],
+    "description": "Les monstres vous mordront les fesses et vous mordrez la poussière. Pauvres monstres."
+  },
+  {
+    "id": "12633",
+    "idImg": "151024",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151024.png",
+    "name": "Engourdisseur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12 Retrait PA"
+    ],
+    "description": "Ce Trophée permet d'engourdir plus facilement les dégourdis. Il semble fonctionner sur les gourdes également."
+  },
+  {
+    "id": "12703",
+    "idImg": "151039",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151039.png",
+    "name": "Initiateur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "400 Initiative"
+    ],
+    "description": "Ce Trophée permet d'augmenter l'initiative à défaut d'en prendre."
+  },
+  {
+    "id": "13768",
+    "idImg": "151102",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151102.png",
+    "name": "Taquin majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "100 Chance",
+      "-200 Vitalité"
+    ],
+    "description": "Un artisan inspiré a gravé au burin sur ce Trophée : \"Mâle heureux en combat, mâle heureux pendant les ébats\" ."
+  },
+  {
+    "id": "13807",
+    "idImg": "151141",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151141.png",
+    "name": "Précurseur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "800 Initiative",
+      "-100 Vitalité"
+    ],
+    "description": "Agir en premier vous donnera l'opportunité de commettre la première bêtise, de passer pour un idiot, d'être ignoré comme cible prioritaire, de périr en dernier et donc d'être considéré comme un héros."
+  },
+  {
+    "id": "16248",
+    "idImg": "151177",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151177.png",
+    "name": "Chanceux majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "100 Chance"
+    ],
+    "description": "Vous aviez 99% de chances d'avoir un verre à moitié vide et on vous a servi un verre à moitié plein. Quelle chance !"
+  },
+  {
+    "id": "16332",
+    "idImg": "151204",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151204.png",
+    "name": "Vigoureux majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "80 Puissance"
+    ],
+    "description": "Pour ne pas vous ramollir l'esprit, n'oubliez pas de rester psychorigide."
+  },
+  {
+    "id": "13783",
+    "idImg": "151117",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151117.png",
+    "name": "Saccageur Eau majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "20 Dommages Eau",
+      "-8 % Résistance Neutre"
+    ],
+    "description": "Nombreux sont les jeunes aventuriers qui pensent pouvoir vivre d'amour et d'eau fraîche. Les belles plantes peut-être."
+  },
+  {
+    "id": "13822",
+    "idImg": "151156",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151156.png",
+    "name": "Muraille Air majeure",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "40 Résistance Air",
+      "-8% Résistance Feu"
+    ],
+    "description": "Avec ce Trophée vous resterez dans l'air du temps."
+  },
+  {
+    "id": "16193",
+    "idImg": "151183",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151183.png",
+    "name": "Miraculé majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "320 Vitalité"
+    ],
+    "description": "Mieux vaut être miraculé qu'acculé."
+  },
+  {
+    "id": "16294",
+    "idImg": "151231",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151231.png",
+    "name": "Évasif majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Esquive PA"
+    ],
+    "description": "L'évasion fiscale permet de se protéger des impôts et des taxes qui permettraient aux pauvres de voler les riches."
+  },
+  {
+    "id": "16302",
+    "idImg": "151210",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151210.png",
+    "name": "Cavaleur majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "32 Esquive PM"
+    ],
+    "description": "Il n'y a aucune honte à fuir. Lorsque l'on a aucune chance de gagner."
+  },
+  {
+    "id": "16326",
+    "idImg": "151234",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151234.png",
+    "name": "Carapace Eau majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "12% Résistance Eau"
+    ],
+    "description": "Ce trophée protège des larmes de Crocodaille."
+  },
+  {
+    "id": "12627",
+    "idImg": "151036",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151036.png",
+    "name": "Fuyard majeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "16 Fuite"
+    ],
+    "description": "Ce Trophée permet de se sauver au bon comme au mauvais moment."
+  },
+  {
+    "id": "12635",
+    "idImg": "151029",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151029.png",
+    "name": "Fugitif",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "8 Esquive PM"
+    ],
+    "description": "Ce Trophée permet d'échapper à tous ceux qui essayent de vous empêcher d'atteindre votre destination. Ne fonctionne pas contre ceux qui vous empêchent d'atteindre votre destinée."
+  },
+  {
+    "id": "12705",
+    "idImg": "151047",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151047.png",
+    "name": "Porteur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "500 Pods"
+    ],
+    "description": "Ce Trophée permet d'augmenter le poids maximum portable. Mais il n'est pas assez puissant pour vous aider à supporter le poids de votre conscience."
+  },
+  {
+    "id": "13791",
+    "idImg": "151125",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151125.png",
+    "name": "Paralyseur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "12 Retrait PA",
+      "-12 Esquive PM"
+    ],
+    "description": "Ce Trophée paralyse de honte vos coéquipiers à chaque fois que vous vous trompez de cible. Dissuasif pour certains, amusant pour d'autres."
+  },
+  {
+    "id": "13809",
+    "idImg": "151143",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151143.png",
+    "name": "Muraille Terre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "20 Résistance Terre",
+      "-4% Résistance Air"
+    ],
+    "description": "Ce Trophée protège des chutes de terre. Très pratique pour labourer des plafonds en terre cuite."
+  },
+  {
+    "id": "13830",
+    "idImg": "151164",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151164.png",
+    "name": "Voyageur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "1 PM",
+      "-30 Fuite",
+      "-30 Tacle"
+    ],
+    "description": "Ce Trophée vous aidera à vous émanciper et quitter votre cocon familial. Prochaine étape, apprendre à faire cuire autre chose que des pâtes."
+  },
+  {
+    "id": "12629",
+    "idImg": "151068",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151068.png",
+    "name": "Ralentisseur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Retrait PM"
+    ],
+    "description": "Ce Trophée permet de mieux ralentir les déplacements des adversaires pour les rattraper plus rapidement et leur infliger une humiliation méritée, comme une fessée culotée par exemple."
+  },
+  {
+    "id": "12650",
+    "idImg": "151008",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151008.png",
+    "name": "Cuirassé Air",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "12 Résistance Air"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Air mais pas des courants d'air."
+  },
+  {
+    "id": "12681",
+    "idImg": "151020",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151020.png",
+    "name": "Cuirassé Terre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "12 Résistance Terre"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Terre sauf si vous vous trouvez dans la terre du milieu."
+  },
+  {
+    "id": "12698",
+    "idImg": "151062",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151062.png",
+    "name": "Ravageur Terre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Dommages Terre"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Terre. Seuls les vers de Terre seront impressionnés."
+  },
+  {
+    "id": "12713",
+    "idImg": "151002",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151002.png",
+    "name": "Acrobate",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "30 Agilité"
+    ],
+    "description": "Ce Trophée permet d'augmenter son Agilité. Vous allez enfin réussir à monter sur une échelle sans tomber."
+  },
+  {
+    "id": "12720",
+    "idImg": "151071",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151071.png",
+    "name": "Savant",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "30 Intelligence"
+    ],
+    "description": "Ce Trophée permet d'augmenter l'Intelligence. Mais pourquoi n'est-il pas offert aux vendeurs à la criée du Zaap d'Astrub ?"
+  },
+  {
+    "id": "13761",
+    "idImg": "151095",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151095.png",
+    "name": "Astucieux",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "50 Intelligence",
+      "-100 Vitalité"
+    ],
+    "description": "Ce Trophée vous rendra plus astucieux et vous permettra d'atteindre un score de 3 sur l'échelle de l'intelligence Bwork dont les bornes sont comprises entre moins l'infini et 1."
+  },
+  {
+    "id": "13785",
+    "idImg": "151119",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151119.png",
+    "name": "Saccageur Air",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Air",
+      "-4% Résistance Feu"
+    ],
+    "description": "On raconte à propos de ce Trophée qu'il force son propriétaire à combattre les fesses à l'air. Soudain, vous êtes pris d'une irrésistible envie de l'équiper."
+  },
+  {
+    "id": "13800",
+    "idImg": "151134",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151134.png",
+    "name": "Bousculeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "32 Dommages Poussée",
+      "-16 Tacle"
+    ],
+    "description": "Ce Trophée permet de casser les pieds des autres aventuriers à chaque fois que vous les croisez. Après mûre réflexion, vous en déduisez que toutes vos anciennes conquêtes amoureuses devaient en être équipées."
+  },
+  {
+    "id": "13824",
+    "idImg": "151158",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151158.png",
+    "name": "Puissant",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "20 Puissance"
+    ],
+    "description": "La publicité de ce Trophée est plutôt explicite : \"Pour une poignée de Kamas seulement, combattez l'impuissance et retrouvez votre vigueur d'antan.\" A ne pas mettre entre toutes les mains."
+  },
+  {
+    "id": "16195",
+    "idImg": "151173",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151173.png",
+    "name": "Enragé",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "50 Force"
+    ],
+    "description": "La bave sur vos lèvres vous permettra de simuler le passage d'un Kaskargo lorsque vous mordrez la poussière."
+  },
+  {
+    "id": "16203",
+    "idImg": "151170",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151170.png",
+    "name": "Érudit",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "50 Intelligence"
+    ],
+    "description": "Alliez-vous avec des Bworks pour devenir l'intellectuel du groupe."
+  },
+  {
+    "id": "16328",
+    "idImg": "151242",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151242.png",
+    "name": "Carapace Air",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6% Résistance Air"
+    ],
+    "description": "Ce trophée vous protégera des cyclones, mais pas des six clones."
+  },
+  {
+    "id": "16335",
+    "idImg": "151257",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151257.png",
+    "name": "Nomade",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "1 PM",
+      "50 Puissance"
+    ],
+    "description": "Vous aimez vous définir comme nomade. Une façon polie de décrire un froussard."
+  },
+  {
+    "id": "12644",
+    "idImg": "151005",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151005.png",
+    "name": "Adamantin",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "24 Résistance Poussée"
+    ],
+    "description": "Ce Trophée permet de moins souffrir lorsque vos adversaires ou vos alliés vous poussent contre un arbre, une personne, une bestiole ou encore tout simplement un gros truc dur. Ne protège pas des gifles même celles prodiguées par des mains calleuses."
+  },
+  {
+    "id": "13755",
+    "idImg": "151089",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151089.png",
+    "name": "Docteur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Soins",
+      "-100 Vitalité"
+    ],
+    "description": "Ce Trophée vous permet de jouer au docteur avec vos alliés ou avec vos ennemis si vos combats sont trop faciles."
+  },
+  {
+    "id": "13779",
+    "idImg": "151113",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151113.png",
+    "name": "Saccageur Feu",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Feu",
+      "-4% Résistance Terre"
+    ],
+    "description": "Ce Trophée vous permettra de mettre le feu au lac."
+  },
+  {
+    "id": "13818",
+    "idImg": "151152",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151152.png",
+    "name": "Muraille Eau",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "20 Résistance Eau",
+      "-4 % Résistance Neutre"
+    ],
+    "description": "Ne jetez pas ce Trophée avec l'eau du bain."
+  },
+  {
+    "id": "16189",
+    "idImg": "151188",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151188.png",
+    "name": "Guérisseur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Soins"
+    ],
+    "description": "Ce Trophée vous aide à guérir vos alliés en distribuant de bons conseils : \"un grand verre d'eau soigne tous les maux, un grand bol de sciure soigne toutes les fractures\"."
+  },
+  {
+    "id": "16259",
+    "idImg": "151215",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151215.png",
+    "name": "Dévastateur Feu",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Feu"
+    ],
+    "description": "Vous faîtes feu de tout bois lorsqu'il s'agit de prendre l'avantage sur votre adversaire : jurons, provocations, mauvaises blagues et peaux de bananes."
+  },
+  {
+    "id": "16266",
+    "idImg": "151221",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151221.png",
+    "name": "Dévastateur Air",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Air"
+    ],
+    "description": "Vous chercherez toute votre vie la constante de l'air sans jamais la trouver."
+  },
+  {
+    "id": "16305",
+    "idImg": "151206",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151206.png",
+    "name": "Culbuteur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "32 Dommages Poussée"
+    ],
+    "description": "Le Culbuteur, c'est le surnom qui vous était donné lorsque vous retourniez votre veste sans avoir de veste."
+  },
+  {
+    "id": "16312",
+    "idImg": "151227",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151227.png",
+    "name": "Fonceur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "400 Initiative"
+    ],
+    "description": "Rien ne sert de mourir ; il faut fuir à point."
+  },
+  {
+    "id": "12638",
+    "idImg": "151041",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151041.png",
+    "name": "Insaisissable",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "8 Esquive PA"
+    ],
+    "description": "Ce Trophée permet d'échapper à tous ceux qui essayent de limiter vos actions. Ne fonctionne pas contre les banquiers."
+  },
+  {
+    "id": "12715",
+    "idImg": "151044",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151044.png",
+    "name": "Joueur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "30 Chance"
+    ],
+    "description": "Ce Trophée permet d'augmenter sa Chance. Il ne semble pas fonctionner pour les tentatives de séduction désespérées."
+  },
+  {
+    "id": "13749",
+    "idImg": "151083",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151083.png",
+    "name": "Bloqueur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Tacle",
+      "-16 Fuite"
+    ],
+    "description": "Ce Trophée permet de coller les malotrus à vos bottes, ou l'inverse. N'oubliez pas de bien serrer vos lacets."
+  },
+  {
+    "id": "13770",
+    "idImg": "151104",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151104.png",
+    "name": "Bastion",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Résistance Critiques",
+      "-16 Dommages Critiques"
+    ],
+    "description": "Ce Trophée vous protégera des coups les plus fourbes mais vous empêchera d'en commettre. Saisissez cette opportunité de ressembler à quelqu'un de bien."
+  },
+  {
+    "id": "13794",
+    "idImg": "151128",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151128.png",
+    "name": "Imprenable",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Esquive PA",
+      "-16 Esquive PM"
+    ],
+    "description": "Ce Trophée diffuse à intervalles réguliers de petites décharges de foudre permettant aux muscles de se contracter et d'éviter de s'engourdir. Juste assez pour ne pas s'endormir lors des repas de famille."
+  },
+  {
+    "id": "13833",
+    "idImg": "151167",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151167.png",
+    "name": "Féroce",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Dommages Eau",
+      "6 Dommages Neutre",
+      "6 Dommages Air",
+      "6 Dommages Terre",
+      "6 Dommages Feu",
+      "-12 Dommages Critiques"
+    ],
+    "description": "Avec ce Trophée vos ennemis se sauveront en pleurant, ils comprendront que vous êtes capable du meilleur comme du pire mais surtout du pire."
+  },
+  {
+    "id": "16250",
+    "idImg": "151248",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151248.png",
+    "name": "Fortification",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Résistance Critiques"
+    ],
+    "description": "Cette terreur des bacs à sable qui avait écrasé votre château d'un poing vengeur vous a traumatisé à vie. Le temps est venu de lui faire payer cet affront."
+  },
+  {
+    "id": "13764",
+    "idImg": "151098",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151098.png",
+    "name": "Equilibriste",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "50 Agilité",
+      "-100 Vitalité"
+    ],
+    "description": "Ce Trophée est assez puissant pour tout équilibrer. A part les sorts peut-être."
+  },
+  {
+    "id": "13788",
+    "idImg": "151122",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151122.png",
+    "name": "Entraveur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "12 Retrait PM",
+      "-12 Esquive PA"
+    ],
+    "description": "Ce Trophée permet de ralentir la charge d'une épouse enragée ou la fuite d'un mari esquivant les tâches ménagères. Enfin un Trophée pour tous."
+  },
+  {
+    "id": "13803",
+    "idImg": "151137",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151137.png",
+    "name": "Inflexible",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "48 Résistance Poussée",
+      "-16 Fuite"
+    ],
+    "description": "Quand la pression devient trop forte, quand les lourds deviennent trop lourds et quand le poids de votre conscience dépasse le poids de vos années, il devient temps d'utiliser ce Trophée."
+  },
+  {
+    "id": "13827",
+    "idImg": "151161",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151161.png",
+    "name": "Robuste",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "40 Puissance",
+      "-6% Critique"
+    ],
+    "description": "Vos ennemis pourront profiter de son arrière goût de rouille antique quand ils se casseront les dents dessus."
+  },
+  {
+    "id": "16244",
+    "idImg": "151179",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151179.png",
+    "name": "Cascadeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "50 Agilité"
+    ],
+    "description": "Cette chute lamentable sur une peau de banane était une cascade destinée à faire rire vos amis. Personne ne vous croit, mais tout le monde a bien rigolé."
+  },
+  {
+    "id": "16275",
+    "idImg": "151197",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151197.png",
+    "name": "Temporiseur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "12 Retrait PM"
+    ],
+    "description": "Votre technique n'est pas d'être le plus rapide, vous cherchez juste à ralentir les autres pour ne pas être le plus lent. Cette technique a déjà fait ses preuves dans toutes les administrations du Monde des Douze."
+  },
+  {
+    "id": "16338",
+    "idImg": "151260",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151260.png",
+    "name": "Sanguinaire",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Dommages"
+    ],
+    "description": "Vos amis ont l'eau à la bouche quand ils vous voient saigner mais refusent de goûter votre délicieuse soupe à l'ail. Étrange."
+  },
+  {
+    "id": "12653",
+    "idImg": "151011",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151011.png",
+    "name": "Cuirassé Eau",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "12 Résistance Eau"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Eau mais pas des attaques de chasses d'eau."
+  },
+  {
+    "id": "12684",
+    "idImg": "151017",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151017.png",
+    "name": "Cuirassé Neutre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "12 Résistance Neutre"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Neutre mais n'empêchera pas vos adversaires de sortir de leur neutralité lorsque les hostilités débuteront."
+  },
+  {
+    "id": "12709",
+    "idImg": "151074",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151074.png",
+    "name": "Soigneur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "8 Soins"
+    ],
+    "description": "Ce Trophée permet d'augmenter les soins. Ce n'est pas avec ça que vous aurez l'air viril."
+  },
+  {
+    "id": "12723",
+    "idImg": "151032",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151032.png",
+    "name": "Furibond",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "30 Force"
+    ],
+    "description": "Ce Trophée permet d'augmenter la Force. Attention cet objet ne peut pas convenir pour remplacer un cerveau déficient."
+  },
+  {
+    "id": "13758",
+    "idImg": "151092",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151092.png",
+    "name": "Forcené",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "50 Force",
+      "-100 Vitalité"
+    ],
+    "description": "Ce Trophée permet de prouver que la Force est très puissante dans votre famille."
+  },
+  {
+    "id": "16283",
+    "idImg": "151200",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151200.png",
+    "name": "Étourdisseur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "12 Retrait PA"
+    ],
+    "description": "Cogner votre tête contre celle de votre adversaire afin de l'étourdir semblait être une action tactique intéressante. Jusqu'à ce que vous vous rappeliez qu'il avait un casque et pas vous."
+  },
+  {
+    "id": "16315",
+    "idImg": "151239",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151239.png",
+    "name": "Carapace Terre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6% Résistance Terre"
+    ],
+    "description": "Ce trophée repousse la poussière chez votre voisin. Si vous l'utilisez à l'envers, il pourrait peut-être repousser votre voisin dans la poussière."
+  },
+  {
+    "id": "16322",
+    "idImg": "151236",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151236.png",
+    "name": "Carapace Feu",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6% Résistance Feu"
+    ],
+    "description": "Ce trophée fera un excellent cendrier si vous préférez utilisez le calumet de la paix plutôt que de combattre."
+  },
+  {
+    "id": "12623",
+    "idImg": "151080",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151080.png",
+    "name": "Tacleur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "8 Tacle"
+    ],
+    "description": "Ce Trophée permet de garder les pleutres à proximité. Pour mieux les piétiner."
+  },
+  {
+    "id": "12647",
+    "idImg": "151065",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151065.png",
+    "name": "Rempart",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Résistance Critiques"
+    ],
+    "description": "Ce Trophée protège des coups critiques dans les endroits critiques lors des situations critiques. Une fois équipé, vous subirez un effet secondaire désagréable pour vos proches : vous ne subirez plus la critique."
+  },
+  {
+    "id": "12678",
+    "idImg": "151014",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151014.png",
+    "name": "Cuirassé Feu",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "12 Résistance Feu"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Feu mais pas des Feux de l'amour."
+  },
+  {
+    "id": "12692",
+    "idImg": "151056",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151056.png",
+    "name": "Ravageur Feu",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Dommages Feu"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Feu. L'étiquette qui y était accrochée indiquait : \"Grâce à lui vous êtes tout feu tout flamme et le coeur de votre ennemi s'enflamme\"."
+  },
+  {
+    "id": "16183",
+    "idImg": "151191",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151191.png",
+    "name": "Obstructeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Tacle"
+    ],
+    "description": "A défaut de trépasser, vos ennemis ne passeront pas."
+  },
+  {
+    "id": "16253",
+    "idImg": "151218",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151218.png",
+    "name": "Dévastateur Terre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Terre"
+    ],
+    "description": "Les monstres vous mordront les fesses et vous mordrez la poussière. Pauvres monstres."
+  },
+  {
+    "id": "16309",
+    "idImg": "151251",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151251.png",
+    "name": "Solide",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "48 Résistance Poussée"
+    ],
+    "description": "Solide mais pas incassable. C'est avec ces mots que vos alliés vous décrivirent juste avant de vous casser les deux gros orteils suite à une mauvaise blague."
+  },
+  {
+    "id": "12686",
+    "idImg": "151050",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151050.png",
+    "name": "Ravageur Air",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Dommages Air"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Air de ceux qui ne manquent pas d'air."
+  },
+  {
+    "id": "12701",
+    "idImg": "151038",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151038.png",
+    "name": "Initiateur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "200 Initiative"
+    ],
+    "description": "Ce Trophée permet d'augmenter l'initiative à défaut d'en prendre."
+  },
+  {
+    "id": "12725",
+    "idImg": "151077",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151077.png",
+    "name": "Survivant",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "80 Vitalité"
+    ],
+    "description": "Ce Trophée permet d'augmenter la Vitalité. Ses effets contre l'impuissance n'ont jamais pu être prouvés."
+  },
+  {
+    "id": "13773",
+    "idImg": "151107",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151107.png",
+    "name": "Saccageur Terre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Terre",
+      "-4% Résistance Air"
+    ],
+    "description": "Ce Trophée vous permettra de toujours garder les pieds sur terre. Peut provoquer de terribles douleurs si vous utilisez une monture volante."
+  },
+  {
+    "id": "16183",
+    "idImg": "151191",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151191.png",
+    "name": "Obstructeur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Tacle"
+    ],
+    "description": "A défaut de trépasser, vos ennemis ne passeront pas."
+  },
+  {
+    "id": "16253",
+    "idImg": "151218",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151218.png",
+    "name": "Dévastateur Terre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Terre"
+    ],
+    "description": "Les monstres vous mordront les fesses et vous mordrez la poussière. Pauvres monstres."
+  },
+  {
+    "id": "16309",
+    "idImg": "151251",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151251.png",
+    "name": "Solide",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "48 Résistance Poussée"
+    ],
+    "description": "Solide mais pas incassable. C'est avec ces mots que vos alliés vous décrivirent juste avant de vous casser les deux gros orteils suite à une mauvaise blague."
+  },
+  {
+    "id": "12632",
+    "idImg": "151023",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151023.png",
+    "name": "Engourdisseur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Retrait PA"
+    ],
+    "description": "Ce Trophée permet d'engourdir plus facilement les dégourdis. Il semble fonctionner sur les gourdes également."
+  },
+  {
+    "id": "13767",
+    "idImg": "151101",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151101.png",
+    "name": "Taquin",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "50 Chance",
+      "-100 Vitalité"
+    ],
+    "description": "Un artisan inspiré a gravé au burin sur ce Trophée : \"Mâle heureux en combat, mâle heureux pendant les ébats\" ."
+  },
+  {
+    "id": "13806",
+    "idImg": "151140",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151140.png",
+    "name": "Précurseur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "400 Initiative",
+      "-50 Vitalité"
+    ],
+    "description": "Agir en premier vous donnera l'opportunité de commettre la première bêtise, de passer pour un idiot, d'être ignoré comme cible prioritaire, de périr en dernier et donc d'être considéré comme un héros."
+  },
+  {
+    "id": "16247",
+    "idImg": "151176",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151176.png",
+    "name": "Chanceux",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "50 Chance"
+    ],
+    "description": "Vous aviez 99% de chances d'avoir un verre à moitié vide et on vous a servi un verre à moitié plein. Quelle chance !"
+  },
+  {
+    "id": "16331",
+    "idImg": "151203",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151203.png",
+    "name": "Vigoureux",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "40 Puissance"
+    ],
+    "description": "Pour ne pas vous ramollir l'esprit, n'oubliez pas de rester psychorigide."
+  },
+  {
+    "id": "12626",
+    "idImg": "151035",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151035.png",
+    "name": "Fuyard",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "8 Fuite"
+    ],
+    "description": "Ce Trophée permet de se sauver au bon comme au mauvais moment."
+  },
+  {
+    "id": "12695",
+    "idImg": "151059",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151059.png",
+    "name": "Ravageur Neutre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Dommages Neutre"
+    ],
+    "description": "Ce trophée augmente les dommages d'élément Neutre. Il a été imaginé par un célèbre forgeur de hache : Giuseppe Hacheneutre."
+  },
+  {
+    "id": "13782",
+    "idImg": "151116",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151116.png",
+    "name": "Saccageur Eau",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Eau",
+      "-4 % Résistance Neutre"
+    ],
+    "description": "Nombreux sont les jeunes aventuriers qui pensent pouvoir vivre d'amour et d'eau fraîche. Les belles plantes peut-être."
+  },
+  {
+    "id": "13821",
+    "idImg": "151155",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151155.png",
+    "name": "Muraille Air",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "20 Résistance Air",
+      "-4% Résistance Feu"
+    ],
+    "description": "Avec ce Trophée vous resterez dans l'air du temps."
+  },
+  {
+    "id": "16192",
+    "idImg": "151182",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151182.png",
+    "name": "Miraculé",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "160 Vitalité"
+    ],
+    "description": "Mieux vaut être miraculé qu'acculé."
+  },
+  {
+    "id": "16293",
+    "idImg": "151230",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151230.png",
+    "name": "Évasif",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Esquive PA"
+    ],
+    "description": "L'évasion fiscale permet de se protéger des impôts et des taxes qui permettraient aux pauvres de voler les riches."
+  },
+  {
+    "id": "16301",
+    "idImg": "151209",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151209.png",
+    "name": "Cavaleur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Esquive PM"
+    ],
+    "description": "Il n'y a aucune honte à fuir. Lorsque l'on a aucune chance de gagner."
+  },
+  {
+    "id": "16325",
+    "idImg": "151233",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151233.png",
+    "name": "Carapace Eau",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6% Résistance Eau"
+    ],
+    "description": "Ce trophée protège des larmes de Crocodaille."
+  },
+  {
+    "id": "12641",
+    "idImg": "151026",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151026.png",
+    "name": "Pousseur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "20 Dommages Poussée"
+    ],
+    "description": "Ce Trophée permet de faire un peu plus mal à vos adversaires lorsque vous les poussez contre un arbre, du marbre ou un autre adversaire glabre."
+  },
+  {
+    "id": "12689",
+    "idImg": "151053",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151053.png",
+    "name": "Ravageur Eau",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Dommages Eau"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Eau mais il reste inutile si vous désirez mettre de l'eau dans votre vin."
+  },
+  {
+    "id": "13752",
+    "idImg": "151086",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151086.png",
+    "name": "Vagabond",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Fuite",
+      "-16 Tacle"
+    ],
+    "description": "Ce Trophée n'est pas responsable de la fuite des cerveaux."
+  },
+  {
+    "id": "13776",
+    "idImg": "151110",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151110.png",
+    "name": "Saccageur Neutre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Neutre",
+      "-4 % Résistance Eau"
+    ],
+    "description": "Le Rube ou la Pandrista ? Ce Trophée ne vous aidera pas à prendre une décision."
+  },
+  {
+    "id": "13815",
+    "idImg": "151149",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151149.png",
+    "name": "Muraille Feu",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "20 Résistance Feu",
+      "-4% Résistance Terre"
+    ],
+    "description": "Ce Trophée pourrait vous sauver la vie dans le feu de l'action."
+  },
+  {
+    "id": "16186",
+    "idImg": "151194",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151194.png",
+    "name": "Déserteur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 Fuite"
+    ],
+    "description": "Ce Trophée ne vous sera d'aucune utilité lors de votre traversée du désert."
+  },
+  {
+    "id": "16256",
+    "idImg": "151224",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151224.png",
+    "name": "Dévastateur Neutre",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Neutre"
+    ],
+    "description": "Là où passe votre Dragodinde, l'herbe ne repousse pas."
+  },
+  {
+    "id": "16263",
+    "idImg": "151212",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151212.png",
+    "name": "Dévastateur Eau",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "10 Dommages Eau"
+    ],
+    "description": "Vous avez toujours pensé pouvoir vivre d'amour et d'eau fraîche. Mais vous passer des bains chauds en hiver était trop difficile."
+  },
+  {
+    "id": "12641",
+    "idImg": "151026",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151026.png",
+    "name": "Pousseur",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "20 Dommages Poussée"
+    ],
+    "description": "Ce Trophée permet de faire un peu plus mal à vos adversaires lorsque vous les poussez contre un arbre, du marbre ou un autre adversaire glabre."
+  },
+  {
+    "id": "12689",
+    "idImg": "151053",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151053.png",
+    "name": "Ravageur Eau",
+    "set": [],
+    "type": "Trophée",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 Dommages Eau"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Eau mais il reste inutile si vous désirez mettre de l'eau dans votre vin."
+  },
+  {
+    "id": "12628",
+    "idImg": "151067",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151067.png",
+    "name": "Ralentisseur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3 Retrait PM"
+    ],
+    "description": "Ce Trophée permet de mieux ralentir les déplacements des adversaires pour les rattraper plus rapidement et leur infliger une humiliation méritée, comme une fessée culotée par exemple."
+  },
+  {
+    "id": "12659",
+    "idImg": "151013",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151013.png",
+    "name": "Cuirassé Feu mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "6 Résistance Feu"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Feu mais pas des Feux de l'amour."
+  },
+  {
+    "id": "12680",
+    "idImg": "151019",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151019.png",
+    "name": "Cuirassé Terre mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "6 Résistance Terre"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Terre sauf si vous vous trouvez dans la terre du milieu."
+  },
+  {
+    "id": "12712",
+    "idImg": "151001",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151001.png",
+    "name": "Acrobate mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "15 Agilité"
+    ],
+    "description": "Ce Trophée permet d'augmenter son Agilité. Vous allez enfin réussir à monter sur une échelle sans tomber."
+  },
+  {
+    "id": "13760",
+    "idImg": "151094",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151094.png",
+    "name": "Astucieux mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "25 Intelligence",
+      "-50 Vitalité"
+    ],
+    "description": "Ce Trophée vous rendra plus astucieux et vous permettra d'atteindre un score de 3 sur l'échelle de l'intelligence Bwork dont les bornes sont comprises entre moins l'infini et 1."
+  },
+  {
+    "id": "13784",
+    "idImg": "151118",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151118.png",
+    "name": "Saccageur Air mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "5 Dommages Air",
+      "-2% Résistance Feu"
+    ],
+    "description": "On raconte à propos de ce Trophée qu'il force son propriétaire à combattre les fesses à l'air. Soudain, vous êtes pris d'une irrésistible envie de l'équiper."
+  },
+  {
+    "id": "13823",
+    "idImg": "151157",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151157.png",
+    "name": "Puissant mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "10 Puissance"
+    ],
+    "description": "La publicité de ce Trophée est plutôt explicite : \"Pour une poignée de Kamas seulement, combattez l'impuissance et retrouvez votre vigueur d'antan.\" A ne pas mettre entre toutes les mains."
+  },
+  {
+    "id": "16194",
+    "idImg": "151172",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151172.png",
+    "name": "Enragé mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "25 Force"
+    ],
+    "description": "La bave sur vos lèvres vous permettra de simuler le passage d'un Kaskargo lorsque vous mordrez la poussière."
+  },
+  {
+    "id": "16202",
+    "idImg": "151169",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151169.png",
+    "name": "Érudit mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "25 Intelligence"
+    ],
+    "description": "Alliez-vous avec des Bworks pour devenir l'intellectuel du groupe."
+  },
+  {
+    "id": "16303",
+    "idImg": "151205",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151205.png",
+    "name": "Culbuteur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "16 Dommages Poussée"
+    ],
+    "description": "Le Culbuteur, c'est le surnom qui vous était donné lorsque vous retourniez votre veste sans avoir de veste."
+  },
+  {
+    "id": "16327",
+    "idImg": "151241",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151241.png",
+    "name": "Carapace Air mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3% Résistance Air"
+    ],
+    "description": "Ce trophée vous protégera des cyclones, mais pas des six clones."
+  },
+  {
+    "id": "12643",
+    "idImg": "151004",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151004.png",
+    "name": "Adamantin mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "12 Résistance Poussée"
+    ],
+    "description": "Ce Trophée permet de moins souffrir lorsque vos adversaires ou vos alliés vous poussent contre un arbre, une personne, une bestiole ou encore tout simplement un gros truc dur. Ne protège pas des gifles même celles prodiguées par des mains calleuses."
+  },
+  {
+    "id": "13754",
+    "idImg": "151088",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151088.png",
+    "name": "Docteur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Soins",
+      "-50 Vitalité"
+    ],
+    "description": "Ce Trophée vous permet de jouer au docteur avec vos alliés ou avec vos ennemis si vos combats sont trop faciles."
+  },
+  {
+    "id": "13778",
+    "idImg": "151112",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151112.png",
+    "name": "Saccageur Feu mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "5 Dommages Feu",
+      "-2% Résistance Terre"
+    ],
+    "description": "Ce Trophée vous permettra de mettre le feu au lac."
+  },
+  {
+    "id": "13817",
+    "idImg": "151151",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151151.png",
+    "name": "Muraille Eau mineure",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "10 Résistance Eau",
+      "-2 % Résistance Neutre"
+    ],
+    "description": "Ne jetez pas ce Trophée avec l'eau du bain."
+  },
+  {
+    "id": "13831",
+    "idImg": "151165",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151165.png",
+    "name": "Examinateur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "1 Portée"
+    ],
+    "description": "Aucun détail ne pourra vous échapper grâce à ce Trophée, pas même la petite tâche de graisse de Blop sur la chemise de votre ennemi caché derrière un buisson lui-même caché dans un trou, de l'autre côté de la colline cachée par le brouillard."
+  },
+  {
+    "id": "16188",
+    "idImg": "151187",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151187.png",
+    "name": "Guérisseur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Soins"
+    ],
+    "description": "Ce Trophée vous aide à guérir vos alliés en distribuant de bons conseils : \"un grand verre d'eau soigne tous les maux, un grand bol de sciure soigne toutes les fractures\"."
+  },
+  {
+    "id": "16258",
+    "idImg": "151214",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151214.png",
+    "name": "Dévastateur Feu mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "5 Dommages Feu"
+    ],
+    "description": "Vous faîtes feu de tout bois lorsqu'il s'agit de prendre l'avantage sur votre adversaire : jurons, provocations, mauvaises blagues et peaux de bananes."
+  },
+  {
+    "id": "16265",
+    "idImg": "151220",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151220.png",
+    "name": "Dévastateur Air mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "5 Dommages Air"
+    ],
+    "description": "Vous chercherez toute votre vie la constante de l'air sans jamais la trouver."
+  },
+  {
+    "id": "16311",
+    "idImg": "151226",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151226.png",
+    "name": "Fonceur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "200 Initiative"
+    ],
+    "description": "Rien ne sert de mourir ; il faut fuir à point."
+  },
+  {
+    "id": "12637",
+    "idImg": "151040",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151040.png",
+    "name": "Insaisissable mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "4 Esquive PA"
+    ],
+    "description": "Ce Trophée permet d'échapper à tous ceux qui essayent de limiter vos actions. Ne fonctionne pas contre les banquiers."
+  },
+  {
+    "id": "12707",
+    "idImg": "151073",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151073.png",
+    "name": "Soigneur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "4 Soins"
+    ],
+    "description": "Ce Trophée permet d'augmenter les soins. Ce n'est pas avec ça que vous aurez l'air viril."
+  },
+  {
+    "id": "13748",
+    "idImg": "151082",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151082.png",
+    "name": "Bloqueur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Tacle",
+      "-8 Fuite"
+    ],
+    "description": "Ce Trophée permet de coller les malotrus à vos bottes, ou l'inverse. N'oubliez pas de bien serrer vos lacets."
+  },
+  {
+    "id": "13793",
+    "idImg": "151127",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151127.png",
+    "name": "Imprenable mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Esquive PA",
+      "-8 Esquive PM"
+    ],
+    "description": "Ce Trophée diffuse à intervalles réguliers de petites décharges de foudre permettant aux muscles de se contracter et d'éviter de s'engourdir. Juste assez pour ne pas s'endormir lors des repas de famille."
+  },
+  {
+    "id": "13832",
+    "idImg": "151166",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151166.png",
+    "name": "Féroce mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3 Dommages Eau",
+      "3 Dommages Neutre",
+      "3 Dommages Air",
+      "3 Dommages Terre",
+      "3 Dommages Feu",
+      "-6 Dommages Critiques"
+    ],
+    "description": "Avec ce Trophée vos ennemis se sauveront en pleurant, ils comprendront que vous êtes capable du meilleur comme du pire mais surtout du pire."
+  },
+  {
+    "id": "16336",
+    "idImg": "151264",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151264.png",
+    "name": "Observateur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "2 Portée"
+    ],
+    "description": "A l'aide d'une longue vue, loin du combat, perché dans un arbre, l'observateur joue souvent un rôle déterminant dans une bataille. Il est surtout le premier à pouvoir s'enfuir quand il s'aperçoit que la situation tourne au désavantage de ses alliés."
+  },
+  {
+    "id": "12652",
+    "idImg": "151010",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151010.png",
+    "name": "Cuirassé Eau mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "6 Résistance Eau"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Eau mais pas des attaques de chasses d'eau."
+  },
+  {
+    "id": "12683",
+    "idImg": "151016",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151016.png",
+    "name": "Cuirassé Neutre mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "6 Résistance Neutre"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Neutre mais n'empêchera pas vos adversaires de sortir de leur neutralité lorsque les hostilités débuteront."
+  },
+  {
+    "id": "12722",
+    "idImg": "151031",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151031.png",
+    "name": "Furibond mineur ",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "15 Force"
+    ],
+    "description": "Ce Trophée permet d'augmenter la Force. Attention cet objet ne peut pas convenir pour remplacer un cerveau déficient."
+  },
+  {
+    "id": "13763",
+    "idImg": "151097",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151097.png",
+    "name": "Equilibriste mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "25 Agilité",
+      "-50 Vitalité"
+    ],
+    "description": "Ce Trophée est assez puissant pour tout équilibrer. A part les sorts peut-être."
+  },
+  {
+    "id": "13787",
+    "idImg": "151121",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151121.png",
+    "name": "Entraveur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "6 Retrait PM",
+      "-6 Esquive PA"
+    ],
+    "description": "Ce Trophée permet de ralentir la charge d'une épouse enragée ou la fuite d'un mari esquivant les tâches ménagères. Enfin un Trophée pour tous."
+  },
+  {
+    "id": "13802",
+    "idImg": "151136",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151136.png",
+    "name": "Inflexible mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "24 Résistance Poussée",
+      "-8 Fuite"
+    ],
+    "description": "Quand la pression devient trop forte, quand les lourds deviennent trop lourds et quand le poids de votre conscience dépasse le poids de vos années, il devient temps d'utiliser ce Trophée."
+  },
+  {
+    "id": "13826",
+    "idImg": "151160",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151160.png",
+    "name": "Robuste mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "20 Puissance",
+      "-3% Critique"
+    ],
+    "description": "Vos ennemis pourront profiter de son arrière goût de rouille antique quand ils se casseront les dents dessus."
+  },
+  {
+    "id": "16243",
+    "idImg": "151178",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151178.png",
+    "name": "Cascadeur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "25 Agilité"
+    ],
+    "description": "Cette chute lamentable sur une peau de banane était une cascade destinée à faire rire vos amis. Personne ne vous croit, mais tout le monde a bien rigolé."
+  },
+  {
+    "id": "16274",
+    "idImg": "151196",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151196.png",
+    "name": "Temporiseur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "6 Retrait PM"
+    ],
+    "description": "Votre technique n'est pas d'être le plus rapide, vous cherchez juste à ralentir les autres pour ne pas être le plus lent. Cette technique a déjà fait ses preuves dans toutes les administrations du Monde des Douze."
+  },
+  {
+    "id": "16337",
+    "idImg": "151261",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151261.png",
+    "name": "Sanguinaire mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3 Dommages"
+    ],
+    "description": "Vos amis ont l'eau à la bouche quand ils vous voient saigner mais refusent de goûter votre délicieuse soupe à l'ail. Étrange."
+  },
+  {
+    "id": "12622",
+    "idImg": "151079",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151079.png",
+    "name": "Tacleur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "4 Tacle"
+    ],
+    "description": "Ce Trophée permet de garder les pleutres à proximité. Pour mieux les piétiner."
+  },
+  {
+    "id": "12646",
+    "idImg": "151064",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151064.png",
+    "name": "Rempart mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3 Résistance Critiques"
+    ],
+    "description": "Ce Trophée protège des coups critiques dans les endroits critiques lors des situations critiques. Une fois équipé, vous subirez un effet secondaire désagréable pour vos proches : vous ne subirez plus la critique."
+  },
+  {
+    "id": "12691",
+    "idImg": "151052",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151052.png",
+    "name": "Ravageur Eau mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3 Dommages Eau"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Eau mais il reste inutile si vous désirez mettre de l'eau dans votre vin."
+  },
+  {
+    "id": "13757",
+    "idImg": "151091",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151091.png",
+    "name": "Forcené mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "25 Force",
+      "-50 Vitalité"
+    ],
+    "description": "Ce Trophée permet de prouver que la Force est très puissante dans votre famille."
+  },
+  {
+    "id": "16282",
+    "idImg": "151199",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151199.png",
+    "name": "Étourdisseur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "6 Retrait PA"
+    ],
+    "description": "Cogner votre tête contre celle de votre adversaire afin de l'étourdir semblait être une action tactique intéressante. Jusqu'à ce que vous vous rappeliez qu'il avait un casque et pas vous."
+  },
+  {
+    "id": "16314",
+    "idImg": "151238",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151238.png",
+    "name": "Carapace Terre mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3% Résistance Terre"
+    ],
+    "description": "Ce trophée repousse la poussière chez votre voisin. Si vous l'utilisez à l'envers, il pourrait peut-être repousser votre voisin dans la poussière."
+  },
+  {
+    "id": "16321",
+    "idImg": "151235",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151235.png",
+    "name": "Carapace Feu mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3% Résistance Feu"
+    ],
+    "description": "Ce trophée fera un excellent cendrier si vous préférez utilisez le calumet de la paix plutôt que de combattre."
+  },
+  {
+    "id": "16182",
+    "idImg": "151190",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151190.png",
+    "name": "Obstructeur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Tacle"
+    ],
+    "description": "A défaut de trépasser, vos ennemis ne passeront pas."
+  },
+  {
+    "id": "16252",
+    "idImg": "151217",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151217.png",
+    "name": "Dévastateur Terre mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "5 Dommages Terre"
+    ],
+    "description": "Les monstres vous mordront les fesses et vous mordrez la poussière. Pauvres monstres."
+  },
+  {
+    "id": "16308",
+    "idImg": "151250",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151250.png",
+    "name": "Solide mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "24 Résistance Poussée"
+    ],
+    "description": "Solide mais pas incassable. C'est avec ces mots que vos alliés vous décrivirent juste avant de vous casser les deux gros orteils suite à une mauvaise blague."
+  },
+  {
+    "id": "16182",
+    "idImg": "151190",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151190.png",
+    "name": "Obstructeur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Tacle"
+    ],
+    "description": "A défaut de trépasser, vos ennemis ne passeront pas."
+  },
+  {
+    "id": "16252",
+    "idImg": "151217",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151217.png",
+    "name": "Dévastateur Terre mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "5 Dommages Terre"
+    ],
+    "description": "Les monstres vous mordront les fesses et vous mordrez la poussière. Pauvres monstres."
+  },
+  {
+    "id": "16308",
+    "idImg": "151250",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151250.png",
+    "name": "Solide mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "24 Résistance Poussée"
+    ],
+    "description": "Solide mais pas incassable. C'est avec ces mots que vos alliés vous décrivirent juste avant de vous casser les deux gros orteils suite à une mauvaise blague."
+  },
+  {
+    "id": "12717",
+    "idImg": "151043",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151043.png",
+    "name": "Joueur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "15 Chance"
+    ],
+    "description": "Ce Trophée permet d'augmenter sa Chance. Il ne semble pas fonctionner pour les tentatives de séduction désespérées."
+  },
+  {
+    "id": "12748",
+    "idImg": "151061",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151061.png",
+    "name": "Ravageur Terre mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3 Dommages Terre"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Terre. Seuls les vers de Terre seront impressionnés."
+  },
+  {
+    "id": "16246",
+    "idImg": "151175",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151175.png",
+    "name": "Chanceux mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "25 Chance"
+    ],
+    "description": "Vous aviez 99% de chances d'avoir un verre à moitié vide et on vous a servi un verre à moitié plein. Quelle chance !"
+  },
+  {
+    "id": "16330",
+    "idImg": "151202",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151202.png",
+    "name": "Vigoureux mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "20 Puissance"
+    ],
+    "description": "Pour ne pas vous ramollir l'esprit, n'oubliez pas de rester psychorigide."
+  },
+  {
+    "id": "12631",
+    "idImg": "151022",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151022.png",
+    "name": "Engourdisseur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3 Retrait PA"
+    ],
+    "description": "Ce Trophée permet d'engourdir plus facilement les dégourdis. Il semble fonctionner sur les gourdes également."
+  },
+  {
+    "id": "12718",
+    "idImg": "151070",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151070.png",
+    "name": "Savant mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "15 Intelligence"
+    ],
+    "description": "Ce Trophée permet d'augmenter l'Intelligence. Mais pourquoi n'est-il pas offert aux vendeurs à la criée du Zaap d'Astrub ?"
+  },
+  {
+    "id": "13766",
+    "idImg": "151100",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151100.png",
+    "name": "Taquin mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "25 Chance",
+      "-50 Vitalité"
+    ],
+    "description": "Un artisan inspiré a gravé au burin sur ce Trophée : \"Mâle heureux en combat, mâle heureux pendant les ébats\" ."
+  },
+  {
+    "id": "13805",
+    "idImg": "151139",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151139.png",
+    "name": "Précurseur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "200 Initiative",
+      "-25 Vitalité"
+    ],
+    "description": "Agir en premier vous donnera l'opportunité de commettre la première bêtise, de passer pour un idiot, d'être ignoré comme cible prioritaire, de périr en dernier et donc d'être considéré comme un héros."
+  },
+  {
+    "id": "12625",
+    "idImg": "151034",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151034.png",
+    "name": "Fuyard mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "4 Fuite"
+    ],
+    "description": "Ce Trophée permet de se sauver au bon comme au mauvais moment."
+  },
+  {
+    "id": "12649",
+    "idImg": "151007",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151007.png",
+    "name": "Cuirassé Air mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "6 Résistance Air"
+    ],
+    "description": "Ce Trophée protège des attaques d'élément Air mais pas des courants d'air."
+  },
+  {
+    "id": "12694",
+    "idImg": "151055",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151055.png",
+    "name": "Ravageur Feu mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3 Dommages Feu"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Feu. L'étiquette qui y était accrochée indiquait : \"Grâce à lui vous êtes tout feu tout flamme et le coeur de votre ennemi s'enflamme\"."
+  },
+  {
+    "id": "12702",
+    "idImg": "151037",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151037.png",
+    "name": "Initiateur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "100 Initiative"
+    ],
+    "description": "Ce Trophée permet d'augmenter l'initiative à défaut d'en prendre."
+  },
+  {
+    "id": "13781",
+    "idImg": "151115",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151115.png",
+    "name": "Saccageur Eau mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "5 Dommages Eau",
+      "-2 % Résistance Neutre"
+    ],
+    "description": "Nombreux sont les jeunes aventuriers qui pensent pouvoir vivre d'amour et d'eau fraîche. Les belles plantes peut-être."
+  },
+  {
+    "id": "13820",
+    "idImg": "151154",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151154.png",
+    "name": "Muraille Air mineure",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "10 Résistance Air",
+      "-2% Résistance Feu"
+    ],
+    "description": "Avec ce Trophée vous resterez dans l'air du temps."
+  },
+  {
+    "id": "16191",
+    "idImg": "151181",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151181.png",
+    "name": "Miraculé mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "80 Vitalité"
+    ],
+    "description": "Mieux vaut être miraculé qu'acculé."
+  },
+  {
+    "id": "16292",
+    "idImg": "151229",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151229.png",
+    "name": "Évasif mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Esquive PA"
+    ],
+    "description": "L'évasion fiscale permet de se protéger des impôts et des taxes qui permettraient aux pauvres de voler les riches."
+  },
+  {
+    "id": "16300",
+    "idImg": "151208",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151208.png",
+    "name": "Cavaleur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Esquive PM"
+    ],
+    "description": "Il n'y a aucune honte à fuir. Lorsque l'on a aucune chance de gagner."
+  },
+  {
+    "id": "16324",
+    "idImg": "151232",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151232.png",
+    "name": "Carapace Eau mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3% Résistance Eau"
+    ],
+    "description": "Ce trophée protège des larmes de Crocodaille."
+  },
+  {
+    "id": "13751",
+    "idImg": "151085",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151085.png",
+    "name": "Vagabond mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Fuite",
+      "-8 Tacle"
+    ],
+    "description": "Ce Trophée n'est pas responsable de la fuite des cerveaux."
+  },
+  {
+    "id": "13775",
+    "idImg": "151109",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151109.png",
+    "name": "Saccageur Neutre mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "5 Dommages Neutre",
+      "-2 % Résistance Eau"
+    ],
+    "description": "Le Rube ou la Pandrista ? Ce Trophée ne vous aidera pas à prendre une décision."
+  },
+  {
+    "id": "13799",
+    "idImg": "151133",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151133.png",
+    "name": "Bousculeur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "20 Dommages Poussée",
+      "-8 Tacle"
+    ],
+    "description": "Ce Trophée permet de casser les pieds des autres aventuriers à chaque fois que vous les croisez. Après mûre réflexion, vous en déduisez que toutes vos anciennes conquêtes amoureuses devaient en être équipées."
+  },
+  {
+    "id": "13814",
+    "idImg": "151148",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151148.png",
+    "name": "Muraille Feu mineure",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "10 Résistance Feu",
+      "-2% Résistance Terre"
+    ],
+    "description": "Ce Trophée pourrait vous sauver la vie dans le feu de l'action."
+  },
+  {
+    "id": "16185",
+    "idImg": "151193",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151193.png",
+    "name": "Déserteur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Fuite"
+    ],
+    "description": "Ce Trophée ne vous sera d'aucune utilité lors de votre traversée du désert."
+  },
+  {
+    "id": "16255",
+    "idImg": "151223",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151223.png",
+    "name": "Dévastateur Neutre mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "5 Dommages Neutre"
+    ],
+    "description": "Là où passe votre Dragodinde, l'herbe ne repousse pas."
+  },
+  {
+    "id": "16262",
+    "idImg": "151211",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151211.png",
+    "name": "Dévastateur Eau mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "5 Dommages Eau"
+    ],
+    "description": "Vous avez toujours pensé pouvoir vivre d'amour et d'eau fraîche. Mais vous passer des bains chauds en hiver était trop difficile."
+  },
+  {
+    "id": "16318",
+    "idImg": "151244",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151244.png",
+    "name": "Carapace Neutre mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3% Résistance Neutre"
+    ],
+    "description": "Ce trophée vous protégera de tous les indécis qui ne savent pas choisir leur camp lors d'un affrontement."
+  },
+  {
+    "id": "12640",
+    "idImg": "151025",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151025.png",
+    "name": "Pousseur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "10 Dommages Poussée"
+    ],
+    "description": "Ce Trophée permet de faire un peu plus mal à vos adversaires lorsque vous les poussez contre un arbre, du marbre ou un autre adversaire glabre."
+  },
+  {
+    "id": "12688",
+    "idImg": "151049",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151049.png",
+    "name": "Ravageur Air mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3 Dommages Air"
+    ],
+    "description": "Ce Trophée augmente les dommages d'élément Air de ceux qui ne manquent pas d'air."
+  },
+  {
+    "id": "12727",
+    "idImg": "151076",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151076.png",
+    "name": "Survivant mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "40 Vitalité"
+    ],
+    "description": "Ce Trophée permet d'augmenter la Vitalité. Ses effets contre l'impuissance n'ont jamais pu être prouvés."
+  },
+  {
+    "id": "13769",
+    "idImg": "151103",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151103.png",
+    "name": "Bastion mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Résistance Critiques",
+      "-8 Dommages Critiques"
+    ],
+    "description": "Ce Trophée vous protégera des coups les plus fourbes mais vous empêchera d'en commettre. Saisissez cette opportunité de ressembler à quelqu'un de bien."
+  },
+  {
+    "id": "13790",
+    "idImg": "151124",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151124.png",
+    "name": "Paralyseur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "6 Retrait PA",
+      "-6 Esquive PM"
+    ],
+    "description": "Ce Trophée paralyse de honte vos coéquipiers à chaque fois que vous vous trompez de cible. Dissuasif pour certains, amusant pour d'autres."
+  },
+  {
+    "id": "13808",
+    "idImg": "151142",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151142.png",
+    "name": "Muraille Terre mineure",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "10 Résistance Terre",
+      "-2% Résistance Air"
+    ],
+    "description": "Ce Trophée protège des chutes de terre. Très pratique pour labourer des plafonds en terre cuite."
+  },
+  {
+    "id": "16249",
+    "idImg": "151247",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151247.png",
+    "name": "Fortification mineure",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "8 Résistance Critiques"
+    ],
+    "description": "Cette terreur des bacs à sable qui avait écrasé votre château d'un poing vengeur vous a traumatisé à vie. Le temps est venu de lui faire payer cet affront."
+  },
+  {
+    "id": "12634",
+    "idImg": "151028",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151028.png",
+    "name": "Fugitif mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "4 Esquive PM"
+    ],
+    "description": "Ce Trophée permet d'échapper à tous ceux qui essayent de vous empêcher d'atteindre votre destination. Ne fonctionne pas contre ceux qui vous empêchent d'atteindre votre destinée."
+  },
+  {
+    "id": "12696",
+    "idImg": "151058",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151058.png",
+    "name": "Ravageur Neutre mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "3 Dommages Neutre"
+    ],
+    "description": "Ce trophée augmente les dommages d'élément Neutre. Il a été imaginé par un célèbre forgeur de hache : Giuseppe Hacheneutre."
+  },
+  {
+    "id": "12704",
+    "idImg": "151046",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/151046.png",
+    "name": "Porteur mineur",
+    "set": [],
+    "type": "Trophée",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "250 Pods"
+    ],
+    "description": "Ce Trophée permet d'augmenter le poids maximum portable. Mais il n'est pas assez puissant pour vous aider à supporter le poids de votre conscience."
+  }
+]

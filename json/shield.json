@@ -1,0 +1,2726 @@
+[
+  {
+    "id": "19263",
+    "idImg": "82181",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82181.png",
+    "name": "Bouclier d'Ilyzaelle",
+    "set": {
+      "setID": "450",
+      "setName": "Panoplie d'Ilyzaelle"
+    },
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "101 à 150 Vitalité",
+      "7 à 10% Résistance Eau",
+      "7 à 10 Esquive PM",
+      "11 à 15% Dommages mêlée",
+      "-15% Dommages d'armes"
+    ],
+    "description": "L'artisan qui a forgé ce bouclier semble y avoir incrusté une simple opale en lieu et place du Dofus des Rois."
+  },
+  {
+    "id": "18696",
+    "idImg": "82159",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82159.png",
+    "name": "Ambrouclier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "1 Portée",
+      "5 à 7 Retrait PM",
+      "11 à 15 Fuite",
+      "11 à 15% Résistance distance",
+      "-15% Résistance mêlée"
+    ],
+    "description": "Si cette ambre venait à se briser en combat, il est probable que la petite Arakne pouacre emprisonnée depuis 53 ans cherche à vous mordre."
+  },
+  {
+    "id": "19598",
+    "idImg": "82188",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82188.png",
+    "name": " Bouclier de Solar",
+    "set": [],
+    "type": "Bouclier ",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "81 à 120 Vitalité",
+      "51 à 70 Résistance Poussée",
+      "9 à 12 Esquive PM",
+      "-15% Dommages d'armes",
+      "11 à 15% Résistance mêlée"
+    ],
+    "description": "Ce bouclier réfléchit les lumières. Ne cherchez donc pas à y voir votre reflet : tout comme celui de Solar, il n'y apparaîtra pas."
+  },
+  {
+    "id": "18697",
+    "idImg": "82168",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82168.png",
+    "name": "Jadis",
+    "set": [],
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "16 à 20 Tacle",
+      "41 à 50 Résistance Critiques",
+      "41 à 50 Résistance Poussée",
+      "11 à 15% Résistance mêlée",
+      "-15% Résistance distance"
+    ],
+    "description": "Ce bouclier aurait pu vous aider à remonter le temps s'il ne lui manquait pas son système à remonter le temps."
+  },
+  {
+    "id": "19259",
+    "idImg": "82182",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82182.png",
+    "name": "Bouclier Bontarien",
+    "set": [],
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "101 à 150 Vitalité",
+      "21 à 30 Résistance Critiques",
+      "11 à 15 Fuite",
+      "-15% Dommages distance",
+      "11 à 15% Résistance distance"
+    ],
+    "description": "À plusieurs reprises menacée d'être détruite, la cité blanche a toujours besoin de guerriers, prêtres, espions assurant sa protection. Derrière ce bouclier se cache l'un de ces bontariens prêt à mettre, éventuellement, sa vie en danger pour sa cité."
+  },
+  {
+    "id": "18715",
+    "idImg": "82156",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82156.png",
+    "name": "Bouclier du Stalak",
+    "set": [],
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "21 à 30 Puissance",
+      "16 à 20 Fuite",
+      "26 à 35 Résistance Critiques",
+      "11 à 15% Dommages distance",
+      "-15% Dommages mêlée"
+    ],
+    "description": "Ce bouclier est conçu pour être porté sur le dos. Certains s'en servent pour protéger leurs arrières, d'autres pour tourner le dos à la moindre difficulté."
+  },
+  {
+    "id": "19080",
+    "idImg": "82172",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82172.png",
+    "name": "Goulclier",
+    "set": {
+      "setID": "436",
+      "setName": "Panoplie de la goule"
+    },
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "21 à 30 Puissance",
+      "21 à 30 Résistance Critiques",
+      "9 à 12 Esquive PA",
+      "-15% Résistance mêlée",
+      "11 à 15% Résistance distance"
+    ],
+    "description": "Ce bouclier a appartenu au Général de Goule. C'était une goule vaillante qui préparait en secret une rébellion contre les vampyres, mais qui avait du mal à trouver des alliés parmi les siens. Elle a fini par passer à l'acte, seule, un dix-huit juinssidor : son action la plus marquante aura été de lancer une pelle en direction d'un vampyre. Même s'il n'a eu aucun impact notable, cet évènement est encore dans les esprits de toutes les goules qui ne s'en sont toujours pas remises et qui relatent encore aujourd'hui l'acte héroïque du Général de Goule et de sa pelle du dix-huit juinssidor."
+  },
+  {
+    "id": "18692",
+    "idImg": "82167",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82167.png",
+    "name": "Bouclier précieux",
+    "set": [],
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "101 à 150 Vitalité",
+      "11 à 15 Tacle",
+      "31 à 40 Dommages Poussée",
+      "11 à 15% Résistance mêlée",
+      "-15% Dommages distance"
+    ],
+    "description": "Ce bouclier fonctionne uniquement si vous faîtes face au soleil, son énorme pierre précieuse permettra alors d'éblouir vos adversaires. Ne fonctionne pas contre les cucurbitacées zombies et toutes les autres créatures aveugles mais dangereuses."
+  },
+  {
+    "id": "19260",
+    "idImg": "82183",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82183.png",
+    "name": "Bouclier Brâkmarien",
+    "set": [],
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "401 à 500 Initiative",
+      "16 à 20 Esquive PM",
+      "4 à 5% Critique",
+      "11 à 15% Résistance mêlée",
+      "-15% Résistance distance"
+    ],
+    "description": "Parfois détruite, parfois reconstruite, la cité noire a toujours besoin de guerriers, prêtres, espions assurant sa protection. Derrière ce bouclier se cache l'un de ces brâkmariens prêt à mettre, éventuellement, sa vie en danger pour sa cité."
+  },
+  {
+    "id": "18718",
+    "idImg": "82157",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82157.png",
+    "name": "Bouclier du Cycloïde",
+    "set": [],
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "21 à 25 Soins",
+      "11 à 15 Fuite",
+      "11 à 15 Esquive PM",
+      "11 à 15% Dommages distance",
+      "-15% Résistance mêlée"
+    ],
+    "description": "Ce bouclier a été conçu par Harry Stote. A défaut de vous éviter une mort certaine, il apportera de jolies courbes à votre silhouette."
+  },
+  {
+    "id": "18670",
+    "idImg": "82014",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82014.png",
+    "name": "Bouclier du Captain Amakna",
+    "set": [],
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "21 à 30 Puissance",
+      "4 à 6% Critique",
+      "9 à 12 Dommages Critiques",
+      "11 à 15% Dommages mêlée",
+      "-15% Résistance distance"
+    ],
+    "description": "Un jeune aventurier avait voulu s'enrôler dans la milice de Bonta pour défendre les opprimés. Réformé en raison de sa constitution trop faible, il fut tout de même contacté par un Alchimiste d'Amakna, déterminé à l'utiliser comme cobaye pour tester une de ses nouvelles potions magiques. L'effet fut immédiat, le jeune aventurier devint rapidement un véritable guerrier d'une force extraordinaire, mais aussi complètement stupide. Il avait en fait été transformé en Iop. Il se fit forger ce bouclier réputé indestructible, et le surnom de Captain Amakna (en hommage à l'illustre Captain Chafer qui disparut dans des circonstances bien mystérieuses) lui fut attribué pour l'éternité."
+  },
+  {
+    "id": "19077",
+    "idImg": "82173",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82173.png",
+    "name": "Bouclier d'Anerice",
+    "set": {
+      "setID": "435",
+      "setName": "Panoplie d'Anerice"
+    },
+    "type": "Bouclier",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "16 à 20 Tacle",
+      "9 à 12 Esquive PM",
+      "4 à 6% Critique",
+      "-15% Dommages mêlée",
+      "11 à 15% Résistance mêlée"
+    ],
+    "description": "Certaines goules, dans un élan de lucidité, se mettent soudainement à attaquer leur maître. Anerice a initialement conçu ce bouclier pour pouvoir se défendre dans ce genre de situation, cela n’a jamais réellement fonctionné et elle a jusqu’ici toujours fini par les assommer avec."
+  },
+  {
+    "id": "18712",
+    "idImg": "82163",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82163.png",
+    "name": "Bouclier alvéolé",
+    "set": [],
+    "type": "Bouclier",
+    "level": "199",
+    "condition": [],
+    "stats": [
+      "7 à 10% Résistance Eau",
+      "16 à 25 Résistance Terre",
+      "7 à 10 Tacle",
+      "11 à 15% Dommages mêlée",
+      "-9% Dommages aux sorts"
+    ],
+    "description": "Ce bouclier n'a malheureusement pas le goût du miel, juste celui de la défaite imminente."
+  },
+  {
+    "id": "18711",
+    "idImg": "82162",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82162.png",
+    "name": "Bouclier cubiste",
+    "set": [],
+    "type": "Bouclier",
+    "level": "198",
+    "condition": [],
+    "stats": [
+      "1 Portée",
+      "11 à 15 Retrait PM",
+      "7 à 10% Résistance Feu",
+      "11 à 15% Dommages distance",
+      "-9% Dommages aux sorts"
+    ],
+    "description": "Ne faîtes pas semblant de comprendre ce que l'artisan a voulu exprimer au travers de cette oeuvre."
+  },
+  {
+    "id": "18703",
+    "idImg": "82160",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82160.png",
+    "name": "Bivalve",
+    "set": [],
+    "type": "Bouclier",
+    "level": "197",
+    "condition": [],
+    "stats": [
+      "21 à 25 Soins",
+      "26 à 35 Dommages Poussée",
+      "11 à 15 Fuite",
+      "10 à 14% Dommages aux sorts",
+      "-14% Résistance mêlée"
+    ],
+    "description": "Lorsqu'il fait trop chaud, ce bouclier s'ouvre et un jus maladorant s'en échappe. La nature dans toute sa splendeur."
+  },
+  {
+    "id": "18693",
+    "idImg": "82166",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82166.png",
+    "name": "Écorce de Brouce",
+    "set": [],
+    "type": "Bouclier",
+    "level": "196",
+    "condition": [],
+    "stats": [
+      "16 à 25 Résistance Terre",
+      "16 à 25 Résistance Eau",
+      "16 à 25 Esquive PA",
+      "11 à 14% Résistance mêlée",
+      "-14% Dommages d'armes"
+    ],
+    "description": "Utilisé par Brouce Boulgoure en personne lorsqu'il recherchait une planche de salut."
+  },
+  {
+    "id": "18702",
+    "idImg": "82152",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82152.png",
+    "name": "Détourné",
+    "set": [],
+    "type": "Bouclier",
+    "level": "195",
+    "condition": [],
+    "stats": [
+      "201 à 250 Vitalité",
+      "16 à 25 Résistance Air",
+      "16 à 25 Résistance Feu",
+      "11 à 14% Résistance mêlée",
+      "-14% Résistance distance"
+    ],
+    "description": "Prévu pour protéger le crâne, ce chapeau a été utilisé comme bouclier par un aventurier qui avait la tête dure."
+  },
+  {
+    "id": "18701",
+    "idImg": "82151",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82151.png",
+    "name": "Sept ans de malheur",
+    "set": [],
+    "type": "Bouclier",
+    "level": "194",
+    "condition": [],
+    "stats": [
+      "16 à 20 Tacle",
+      "11 à 15 Retrait PA",
+      "7 à 10% Résistance Terre",
+      "11 à 14% Résistance mêlée",
+      "-14% Dommages mêlée"
+    ],
+    "description": "Ce bouclier composé d'un miroir très fragile ne vous protégera pas longtemps mais si votre adversaire le brise, vous vous assurerez qu'il subisse sept ans de malheur. Une façon comme une autre de se consoler après une défaite humiliante."
+  },
+  {
+    "id": "18700",
+    "idImg": "82150",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82150.png",
+    "name": "Quatre-feuilles",
+    "set": [],
+    "type": "Bouclier",
+    "level": "193",
+    "condition": [],
+    "stats": [
+      "21 à 30 Puissance",
+      "4 à 6% Critique",
+      "9 à 12 Fuite",
+      "11 à 14% Dommages distance",
+      "-14% Dommages mêlée"
+    ],
+    "description": "Version beaucoup moins onéreuse et moins digeste du mille-feuilles, ce bouclier symbolise peut-être quatre saisons, les quatre doigts d'une main dont il manquerait un doigt ou encore les quatre neurones de ceux qui pensent pouvoir survivre parce qu'ils portent un bouclier."
+  },
+  {
+    "id": "18699",
+    "idImg": "82149",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82149.png",
+    "name": "Carapar",
+    "set": [],
+    "type": "Bouclier",
+    "level": "192",
+    "condition": [],
+    "stats": [
+      "151 à 200 Vitalité",
+      "16 à 25 Résistance Air",
+      "16 à 20 Soins",
+      "11 à 14% Résistance mêlée",
+      "-14% Dommages d'armes"
+    ],
+    "description": "Ce bouclier peut résister à toutes les attaques, sauf à celle de l'arme utilisée pour tuer la bestiole qui pensait pouvoir se protéger avec cette carapace."
+  },
+  {
+    "id": "18709",
+    "idImg": "82161",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82161.png",
+    "name": "Bouclier à hélice",
+    "set": [],
+    "type": "Bouclier",
+    "level": "191",
+    "condition": [],
+    "stats": [
+      "16 à 25 Résistance Eau",
+      "16 à 25 Résistance Feu",
+      "16 à 20 Esquive PM",
+      "10 à 13% Résistance distance",
+      "-13% Dommages mêlée"
+    ],
+    "description": "L'hélice de ce bouclier vous permettra de décoiffer vos adversaires et ainsi prendre l'avantage pour effectuer une attaque d'opportunité."
+  },
+  {
+    "id": "18698",
+    "idImg": "82148",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82148.png",
+    "name": "Bouclier du serrurier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "190",
+    "condition": [],
+    "stats": [
+      "1 Portée",
+      "11 à 15 Fuite",
+      "11 à 15 Retrait PM",
+      "10 à 13% Résistance distance",
+      "-13% Dommages distance"
+    ],
+    "description": "La serrure de ce bouclier est parfaite pour vous protéger des clefs de bras."
+  },
+  {
+    "id": "18695",
+    "idImg": "82164",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82164.png",
+    "name": "La Rondelle",
+    "set": [],
+    "type": "Bouclier",
+    "level": "185",
+    "condition": [],
+    "stats": [
+      "7 à 10 Esquive PA",
+      "16 à 20 Tacle",
+      "26 à 35 Résistance Poussée",
+      "10 à 13% Dommages aux sorts",
+      "-13% Résistance distance"
+    ],
+    "description": "Cette rondelle de Cawotte géante peut absorber de nombreuses attaques magiques mais ne résistera pas longtemps face aux morsures des Wabbits."
+  },
+  {
+    "id": "18694",
+    "idImg": "82165",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82165.png",
+    "name": "Roncier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "180",
+    "condition": [],
+    "stats": [
+      "151 à 200 Vitalité",
+      "31 à 40 Résistance Air",
+      "11 à 15 Fuite",
+      "10 à 13% Résistance mêlée",
+      "-13% Dommages aux sorts"
+    ],
+    "description": "Qui s'y frotte s'y pique."
+  },
+  {
+    "id": "18680",
+    "idImg": "82024",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82024.png",
+    "name": "Cadran de Feu",
+    "set": [],
+    "type": "Bouclier",
+    "level": "175",
+    "condition": [],
+    "stats": [
+      "16 à 25 Résistance Feu",
+      "6 à 8% Résistance Feu",
+      "7 à 10 Esquive PA",
+      "9 à 12% Résistance distance",
+      "-12% Dommages d'armes"
+    ],
+    "description": "Ce bouclier vous protégera des météorites, des cracheurs de feu et donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite."
+  },
+  {
+    "id": "18679",
+    "idImg": "82026",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82026.png",
+    "name": "Cadran d'Air",
+    "set": [],
+    "type": "Bouclier",
+    "level": "170",
+    "condition": [],
+    "stats": [
+      "16 à 25 Résistance Air",
+      "6 à 8% Résistance Air",
+      "7 à 10 Esquive PM",
+      "9 à 12% Dommages distance",
+      "-12% Dommages mêlée"
+    ],
+    "description": "Ce bouclier vous protègera des vents de vos adversaires et leur donnera l'heure. Très utile pour les aider à chronométrer leur défaite."
+  },
+  {
+    "id": "18678",
+    "idImg": "82027",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82027.png",
+    "name": "Cadran de Terre",
+    "set": [],
+    "type": "Bouclier",
+    "level": "165",
+    "condition": [],
+    "stats": [
+      "16 à 25 Résistance Terre",
+      "5 à 7% Résistance Terre",
+      "6 à 8 Retrait PA",
+      "9 à 12% Dommages distance",
+      "-12% Dommages mêlée"
+    ],
+    "description": "Ce bouclier vous protégera des jets de pierre, des projections de boue, et donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite."
+  },
+  {
+    "id": "18677",
+    "idImg": "82025",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82025.png",
+    "name": "Cadran d'Eau",
+    "set": [],
+    "type": "Bouclier",
+    "level": "160",
+    "condition": [],
+    "stats": [
+      "16 à 25 Résistance Eau",
+      "5 à 7% Résistance Eau",
+      "6 à 8 Retrait PM",
+      "9 à 12% Dommages mêlée",
+      "-12% Dommages distance"
+    ],
+    "description": "Ce bouclier vous protégera de la pluie, de la bave de crapaud et donnera l'heure à vos adversaires. Très utile pour les aider à chronométrer leur défaite."
+  },
+  {
+    "id": "18688",
+    "idImg": "82006",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82006.png",
+    "name": "Bouclier Taverne",
+    "set": [],
+    "type": "Bouclier",
+    "level": "155",
+    "condition": [],
+    "stats": [
+      "16 à 25 Puissance",
+      "4 à 5% Critique",
+      "21 à 30 Dommages Poussée",
+      "8 à 11% Dommages aux sorts",
+      "-6% Dommages distance"
+    ],
+    "description": "Le tavernier de la brasserie Feubuk de Bonta devait certainement s'ennuyer fermement lorsqu'il eu soudainement l'idée d'équiper les videurs de sa taverne avec ces boucliers publicitaires."
+  },
+  {
+    "id": "18681",
+    "idImg": "82022",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82022.png",
+    "name": "Bouclier Pandawa",
+    "set": [],
+    "type": "Bouclier",
+    "level": "150",
+    "condition": [],
+    "stats": [
+      "16 à 25 Résistance Neutre",
+      "6 à 8% Résistance Neutre",
+      "16 à 25 Dommages Critiques",
+      "8 à 11% Dommages d'armes",
+      "-6% Dommages aux sorts"
+    ],
+    "description": "Idéal pour se faire discret sur Pandala, et pour se faire remarquer partout ailleurs, ce bouclier a surtout l'avantage d'être recouvert de poils de Pandawas, réputés pour ne jamais déclencher la moindre allergie. Vous pourrez donc sans crainte ranger ce bouclier directement dans votre slip en cuir."
+  },
+  {
+    "id": "18675",
+    "idImg": "82001",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82001.png",
+    "name": "Bouclier du Mont Kipou",
+    "set": [],
+    "type": "Bouclier",
+    "level": "145",
+    "condition": [],
+    "stats": [
+      "71 à 100 Vitalité",
+      "7 à 10 Retrait PA",
+      "11 à 15 Soins",
+      "7 à 10% Résistance distance",
+      "-10% Dommages mêlée"
+    ],
+    "description": "Verdâtre et malodorant, ce bouclier n'en reste pas moins une protection de choix lorsqu'il s'agît d'affronter les créatures du Mont Kipou."
+  },
+  {
+    "id": "18686",
+    "idImg": "82011",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82011.png",
+    "name": "Bouclier Ventaille",
+    "set": [],
+    "type": "Bouclier",
+    "level": "140",
+    "condition": [],
+    "stats": [
+      "21 à 30 Puissance",
+      "16 à 25 Résistance Critiques",
+      "7 à 10 Tacle",
+      "7 à 10% Résistance mêlée",
+      "-10% Résistance distance"
+    ],
+    "description": "Lorsque vos alliés commencent à s'essouffler ou même lorsque vous voulez dissiper les effets d'un Vent de Panique, ce bouclier peut vous sauver la vie, il suffit de l'agiter vigoureusement dans tous les sens, un peu comme si vous vouliez calmer un nourrisson un peu trop bruyant."
+  },
+  {
+    "id": "18662",
+    "idImg": "82033",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82033.png",
+    "name": "Bouclier Feudala",
+    "set": [],
+    "type": "Bouclier",
+    "level": "135",
+    "condition": [],
+    "stats": [
+      "16 à 20 Tacle",
+      "16 à 25 Résistance Poussée",
+      "7 à 10% Résistance Feu",
+      "7 à 9% Résistance mêlée",
+      "-9% Dommages mêlée"
+    ],
+    "description": "Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village de Feudala devrait faire l'affaire."
+  },
+  {
+    "id": "18685",
+    "idImg": "82012",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82012.png",
+    "name": "Bouclier du Sadida",
+    "set": [],
+    "type": "Bouclier",
+    "level": "130",
+    "condition": [],
+    "stats": [
+      "4 à 5% Critique",
+      "9 à 12 Fuite",
+      "7 à 10 Esquive PM",
+      "7 à 9% Dommages aux sorts",
+      "-5% Dommages distance"
+    ],
+    "description": "Ce bouclier servait à l'origine de tabouret aux Sadidas lorsque ces derniers devaient se reposer. Une fois les pieds repliés, il vous protègera de beaucoup d'attaques, mais pas des fous rires de vos adversaires."
+  },
+  {
+    "id": "18674",
+    "idImg": "82009",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82009.png",
+    "name": "Bouclier des Brigandins",
+    "set": [],
+    "type": "Bouclier",
+    "level": "125",
+    "condition": [],
+    "stats": [
+      "16 à 20 Puissance",
+      "16 à 25 Résistance Terre",
+      "21 à 30 Dommages Poussée",
+      "7 à 9% Résistance mêlée",
+      "-9% Résistance distance"
+    ],
+    "description": "Si vous avez toujours rêvé d'être un vrai Brigandin, c'est le bouclier qu'il vous faut. Transmis de générations en générations, il vous permettra de détrousser sans prendre le moindre coup, les jeunes aventuriers d'Astrub."
+  },
+  {
+    "id": "18684",
+    "idImg": "82013",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82013.png",
+    "name": "Bouclier en Slip",
+    "set": [],
+    "type": "Bouclier",
+    "level": "120",
+    "condition": [],
+    "stats": [
+      "61 à 80 Vitalité",
+      "15 à 20 Résistance Air",
+      "11 à 15 Dommages Critiques",
+      "6 à 8% Résistance distance",
+      "-8% Résistance mêlée"
+    ],
+    "description": "Cette création surprenante, est recouverte d'un Slip en Cuir du Chafer lancier, bouilli, nettoyé et détendu pour épouser les formes du bouclier, qui sont loin de rappeler celles du Chafer, bien plus avantageuses et aguichantes..."
+  },
+  {
+    "id": "18663",
+    "idImg": "82032",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82032.png",
+    "name": "Bouclier Terrdala",
+    "set": [],
+    "type": "Bouclier",
+    "level": "115",
+    "condition": [],
+    "stats": [
+      "16 à 25 Résistance Critiques",
+      "9 à 12 Tacle",
+      "7 à 10% Résistance Terre",
+      "6 à 8% Résistance mêlée",
+      "-8% Résistance distance"
+    ],
+    "description": "Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village de Terrdala devrait faire l'affaire."
+  },
+  {
+    "id": "18683",
+    "idImg": "82016",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82016.png",
+    "name": "Bouclier d'Asse",
+    "set": [],
+    "type": "Bouclier",
+    "level": "110",
+    "condition": [],
+    "stats": [
+      "4 à 5% Critique",
+      "7 à 10 Esquive PM",
+      "9 à 12 Tacle",
+      "6 à 8% Dommages aux sorts",
+      "-8% Résistance distance"
+    ],
+    "description": "Ce splendide bouclier contient un échantillon d'eau de la Mer d'Asse, ce qui en plus de vous porter bonheur, pourra vous servir de gourde, si votre dulcinée ne vous accompagne pas durant vos combats."
+  },
+  {
+    "id": "18673",
+    "idImg": "82007",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82007.png",
+    "name": "Le Karde Coeur",
+    "set": [],
+    "type": "Bouclier",
+    "level": "105",
+    "condition": [],
+    "stats": [
+      "9 à 12 Fuite",
+      "5 à 7 Retrait PM",
+      "16 à 20 Résistance Critiques",
+      "5 à 7% Dommages distance",
+      "-7% Résistance mêlée"
+    ],
+    "description": "Un illustre aventurier collectionneur, a passé sa vie à chercher ce type de bouclier. On raconte qu'une fois quatre de ces boucliers réunis, on pouvait jouir d'une meilleure vie."
+  },
+  {
+    "id": "18660",
+    "idImg": "82084",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82084.png",
+    "name": "Coupe de Dragokart",
+    "set": [],
+    "type": "Bouclier",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "16 à 25 Puissance",
+      "21 à 30 Dommages Poussée",
+      "6 à 8 Fuite",
+      "5 à 7% Dommages mêlée",
+      "-7% Résistance mêlée"
+    ],
+    "description": "Ce bouclier est une réplique du trophée remporté par les gagnants de la célèbre course de dragodindes. Certes, cet objet est moins prestigieux que la coupe originale, mais il pourra vous éviter d'être coupé en deux par un mauvais coup, ce qui finalement peut s'avérer plus utile."
+  },
+  {
+    "id": "18661",
+    "idImg": "82030",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82030.png",
+    "name": "Bouclier Aerdala",
+    "set": [],
+    "type": "Bouclier",
+    "level": "95",
+    "condition": [],
+    "stats": [
+      "7 à 10 Retrait PM",
+      "7 à 10% Résistance Air",
+      "9 à 12 Tacle",
+      "5 à 6% Dommages d'armes",
+      "-4% Dommages aux sorts"
+    ],
+    "description": "Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village d'Aerdala devrait faire l'affaire."
+  },
+  {
+    "id": "18689",
+    "idImg": "82005",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82005.png",
+    "name": "Ftalmo",
+    "set": [],
+    "type": "Bouclier",
+    "level": "90",
+    "condition": [],
+    "stats": [
+      "7 à 10% Résistance Neutre",
+      "7 à 10 Esquive PA",
+      "4 à 6 Retrait PM",
+      "5 à 6% Résistance distance",
+      "-6% Dommages mêlée"
+    ],
+    "description": "Ce bouclier est recouvert de divers yeux, pour permettre à son porteur de fixer plus facilement son adversaire dans les yeux."
+  },
+  {
+    "id": "19084",
+    "idImg": "82171",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82171.png",
+    "name": "Bouclier de Choudini",
+    "set": {
+      "setID": "438",
+      "setName": "Panoplie de Choudini"
+    },
+    "type": "Bouclier",
+    "level": "90",
+    "condition": [],
+    "stats": [
+      "7 à 10 Fuite",
+      "7 à 10 Dommages Critiques",
+      "4 à 6% Critique",
+      "-6% Résistance mêlée",
+      "4 à 6% Résistance distance"
+    ],
+    "description": "La ressemblance de ce bouclier avec celui du Captain Amakna s’arrête à son apparence : l’illusionnisme a quand même ses limites."
+  },
+  {
+    "id": "18667",
+    "idImg": "82018",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82018.png",
+    "name": "Bouclier du Chouque",
+    "set": [],
+    "type": "Bouclier",
+    "level": "85",
+    "condition": [],
+    "stats": [
+      "9 à 12 Tacle",
+      "6 à 8 Retrait PA",
+      "11 à 15 Soins",
+      "4 à 5% Résistance mêlée",
+      "-5% Dommages d'armes"
+    ],
+    "description": "Le Chouque se servait de ce bouclier pour se protéger des gros boulets qui lui étaient régulièrement envoyés. Les histoires les plus folles, racontent même que certains boulets étaient vivants."
+  },
+  {
+    "id": "18690",
+    "idImg": "82008",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82008.png",
+    "name": "Bouclier de Sidimote",
+    "set": [],
+    "type": "Bouclier",
+    "level": "80",
+    "condition": [],
+    "stats": [
+      "51 à 70 Vitalité",
+      "5 à 7 Retrait PA",
+      "5 à 7 Esquive PM",
+      "4 à 5% Dommages aux sorts",
+      "-5% Dommages distance"
+    ],
+    "description": "Ce bouclier est censé rappeler à vos adversaires que vous avez grandi dans les Landes de Sidimote. Il paraît que cela pourrait suffire à les effrayer."
+  },
+  {
+    "id": "18687",
+    "idImg": "82031",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82031.png",
+    "name": "Bouclier Akwadala",
+    "set": [],
+    "type": "Bouclier",
+    "level": "75",
+    "condition": [],
+    "stats": [
+      "7 à 10% Résistance Eau",
+      "4 à 5% Critique",
+      "4 à 5% Dommages d'armes",
+      "-5% Résistance mêlée"
+    ],
+    "description": "Pour parer les coups de bourre ou les coups tordus, ce bouclier issu du village d'Akwadala devrait faire l'affaire."
+  },
+  {
+    "id": "18713",
+    "idImg": "82154",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82154.png",
+    "name": "Bouclier du Chef Crocodaille",
+    "set": [],
+    "type": "Bouclier",
+    "level": "70",
+    "condition": [],
+    "stats": [
+      "15 à 20 Puissance",
+      "7 à 10 Tacle",
+      "3 à 4% Résistance mêlée",
+      "-4% Dommages mêlée"
+    ],
+    "description": "La forme de ce bouclier permet de récolter facilement les larmes de Crocodaille de vos adversaires après leurs défaites."
+  },
+  {
+    "id": "18671",
+    "idImg": "82003",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82003.png",
+    "name": "Derma Tho",
+    "set": [],
+    "type": "Bouclier",
+    "level": "65",
+    "condition": [],
+    "stats": [
+      "11 à 15 Soins",
+      "5 à 7 Retrait PM",
+      "3 à 4% Résistance distance",
+      "-4% Dommages distance"
+    ],
+    "description": "Ce bouclier en peau, risque de vous coller à la peau, tellement vous l'apprécierez. N'oubliez pas de soigner ses verrues et ses furoncles de temps en temps pour éviter qu'il ne s'abîme."
+  },
+  {
+    "id": "18672",
+    "idImg": "82002",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82002.png",
+    "name": "Bouclier du Bawbawe",
+    "set": [],
+    "type": "Bouclier",
+    "level": "60",
+    "condition": [],
+    "stats": [
+      "5 à 7 Fuite",
+      "1 Portée",
+      "3 à 4% Dommages d'armes",
+      "-2% Dommages aux sorts"
+    ],
+    "description": "Tous les Wabbits ne sont pas de petites créatures inoffensives. En réalité, tous les Wabbits sont d'infâmes créatures, certains ont même des moeurs barbares et écrasent les Cawottes avec cet énorme bouclier, pour en faire du jus."
+  },
+  {
+    "id": "18669",
+    "idImg": "82015",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82015.png",
+    "name": "Kloume",
+    "set": [],
+    "type": "Bouclier",
+    "level": "55",
+    "condition": [],
+    "stats": [
+      "151 à 200 Initiative",
+      "16 à 20 Dommages Poussée",
+      "2 à 3% Dommages mêlée",
+      "-3% Résistance distance"
+    ],
+    "description": "Cet énorme bouclier a jadis, permis au célèbre aventurier Kloume, de ne pas mourir écrasé sous le poids d'un Craqueleur qui était tombé amoureux de lui. L'histoire ne raconte pas s'il a survécu aux effets secondaires de sa relation passionnée avec le Craqueleur."
+  },
+  {
+    "id": "18691",
+    "idImg": "82035",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82035.png",
+    "name": "Bouclier Fi'Squale",
+    "set": [],
+    "type": "Bouclier",
+    "level": "50",
+    "condition": [
+      "Kamas > 100000"
+    ],
+    "stats": [
+      "31 à 40 Résistance Poussée",
+      "4 à 6 Fuite",
+      "2 à 3% Dommages distance",
+      "-3% Résistance mêlée"
+    ],
+    "description": "Ce bouclier vous protège des impôts et d'une répartition égalitaire des richesses."
+  },
+  {
+    "id": "18682",
+    "idImg": "82019",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82019.png",
+    "name": "Bouclier Abraknyde",
+    "set": [],
+    "type": "Bouclier",
+    "level": "45",
+    "condition": [],
+    "stats": [
+      "11 à 15 Puissance",
+      "7 à 10 Résistance Terre",
+      "2 à 3% Dommages aux sorts",
+      "-3% Résistance mêlée"
+    ],
+    "description": "Caché derrière ce bouclier, les aventuriers les plus naïfs pourront vous prendre pour un Abraknyde et se sauver en courant. Les autres vous agresseront en pensant récupérer quelques ambres."
+  },
+  {
+    "id": "18664",
+    "idImg": "82023",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82023.png",
+    "name": "Bouclier du Craqueleur",
+    "set": [],
+    "type": "Bouclier",
+    "level": "40",
+    "condition": [],
+    "stats": [
+      "4 à 5 Esquive PM",
+      "7 à 10 Résistance Critiques",
+      "2 à 3% Résistance mêlée",
+      "-3% Résistance distance"
+    ],
+    "description": "Ce bouclier en pierre est en fait une tête de Craqueleur écrasée par le pied d'un Minotoror. Une façon comme une autre de combiner grosse tête et odeurs de pieds."
+  },
+  {
+    "id": "18807",
+    "idImg": "82175",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82175.png",
+    "name": "Magclier",
+    "set": {
+      "setID": "434",
+      "setName": "Panoplie du Magma"
+    },
+    "type": "Bouclier",
+    "level": "40",
+    "condition": [],
+    "stats": [
+      "31 à 40 Vitalité",
+      "4 à 5 Résistance Terre",
+      "4 à 5 Résistance Feu",
+      "2 à 3% Dommages mêlée",
+      "-3% Dommages distance"
+    ],
+    "description": "Forgé au cœur d’un volcan, ce bouclier offre une maigre protection contre les insultes de vos adversaires. Il est par contre extrêmement efficace pour évaporer leurs postillons avant qu’ils vous atteignent."
+  },
+  {
+    "id": "19145",
+    "idImg": "82180",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82180.png",
+    "name": "Bouclier Zombique ",
+    "set": {
+      "setID": "441",
+      "setName": "Panoplie Zombique"
+    },
+    "type": "Bouclier",
+    "level": "40",
+    "condition": [],
+    "stats": [
+      "16 à 20 Vitalité",
+      "2 à 3% Critique",
+      "2 à 3% Résistance distance",
+      "-3% Dommages distance"
+    ],
+    "description": "Ce bouclier semble doté d’une volonté propre, il entretient une relation fusionnelle avec son propriétaire. Ce ne sont pas les nécroses qui partent de votre main et qui remontent jusqu’à votre épaule qui prouveront le contraire."
+  },
+  {
+    "id": "18710",
+    "idImg": "82153",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82153.png",
+    "name": "Bouclier du Chafer fantassin",
+    "set": [],
+    "type": "Bouclier",
+    "level": "35",
+    "condition": [],
+    "stats": [
+      "7 à 10 Résistance Air",
+      "3 à 4% Critique",
+      "2% Dommages mêlée",
+      "-2% Dommages distance"
+    ],
+    "description": "C'est le dernier rempart qui empêche le Chafer fantassin de perdre les os en combat."
+  },
+  {
+    "id": "18665",
+    "idImg": "82021",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82021.png",
+    "name": "Bouclier de Bowisse",
+    "set": [],
+    "type": "Bouclier",
+    "level": "30",
+    "condition": [],
+    "stats": [
+      "7 à 10 Résistance Feu",
+      "4 à 6% Résistance Terre"
+    ],
+    "description": "Ce bouclier est clairement un hommage à la cape du Bowisse, elle-même étant un hommage à une célèbre relique composée de trois fragments de forme triangulaire. Encore une histoire à dormir debout."
+  },
+  {
+    "id": "15547",
+    "idImg": "82114",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82114.png",
+    "name": "Bouclier Verréhor",
+    "set": {
+      "setID": "353",
+      "setName": "Panoplie Verréhor"
+    },
+    "type": "Bouclier",
+    "level": "30",
+    "condition": [],
+    "stats": [],
+    "description": "Elément indispensable à tout Boufbowler, le bouclier doit avant tout être solide et encaisser totalement les coups. Celui-ci est simplement joli, il n’encaissera rien du tout, pas même les moqueries de vos adversaires."
+  },
+  {
+    "id": "18659",
+    "idImg": "82010",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82010.png",
+    "name": "Bouclier en Mousse",
+    "set": {
+      "setID": "63",
+      "setName": "Panoplie en Mousse"
+    },
+    "type": "Bouclier",
+    "level": "25",
+    "condition": [],
+    "stats": [
+      "16 à 25 Vitalité",
+      "4 à 6% Résistance Air"
+    ],
+    "description": "Ce bouclier jaune, poreux mais absorbant a été conçu à partir des restes d'un animal qui avait élu domicile dans un Maskananas tombé au fond de la mer."
+  },
+  {
+    "id": "15124",
+    "idImg": "82088",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82088.png",
+    "name": "Bouclier du Ballotin",
+    "set": {
+      "setID": "329",
+      "setName": "Panoplie du Ballotin"
+    },
+    "type": "Bouclier",
+    "level": "20",
+    "condition": [],
+    "stats": [],
+    "description": "C’est l’élément indispensable à toute panoplie du ballotin, il vous permettra de mieux encaisser les éventuels rejets de votre bien-aimé(e)."
+  },
+  {
+    "id": "18666",
+    "idImg": "82020",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82020.png",
+    "name": "Bouclier du Bouftou",
+    "set": [],
+    "type": "Bouclier",
+    "level": "20",
+    "condition": [],
+    "stats": [
+      "7 à 10 Puissance",
+      "4 à 5 Tacle"
+    ],
+    "description": "Assez inutile mais tout de même impressionnant grâce à l'odeur qu'il dégage, ce bouclier sera le compagnon de beaucoup de jeunes aventuriers."
+  },
+  {
+    "id": "19157",
+    "idImg": "82184",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82184.png",
+    "name": "Bouclier de l'Ancienne Sufokia",
+    "set": [],
+    "type": "Bouclier",
+    "level": "20",
+    "condition": [],
+    "stats": [
+      "4 à 5 Fuite",
+      "7 à 10 Puissance"
+    ],
+    "description": "Le motif sur ce bouclier rappelle étrangement ceux que l'on peut trouver dans le temple éliotrope de Sufokia."
+  },
+  {
+    "id": "16221",
+    "idImg": "82119",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82119.png",
+    "name": "Bouclier Ridite",
+    "set": [],
+    "type": "Bouclier",
+    "level": "20",
+    "condition": [],
+    "stats": [],
+    "description": "Si vous aimez lier et délier ce que les autres ont fait, faire des commentaires acerbes et sans intérêt sur tout et n’importe quoi ou tout simplement avoir un droit de vote contestataire en Amakna, ce bouclier est fait pour vous."
+  },
+  {
+    "id": "19116",
+    "idImg": "82177",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82177.png",
+    "name": "Bouclier Invisible",
+    "set": {
+      "setID": "373",
+      "setName": "Panoplie Invisible"
+    },
+    "type": "Bouclier",
+    "level": "20",
+    "condition": [],
+    "stats": [
+      "31 à 40 Vitalité"
+    ],
+    "description": "Ce bouclier ne vous protégera pas du ridicule."
+  },
+  {
+    "id": "14624",
+    "idImg": "82085",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82085.png",
+    "name": "Ailoclier",
+    "set": {
+      "setID": "310",
+      "setName": "Panoplie Ailée"
+    },
+    "type": "Bouclier",
+    "level": "10",
+    "condition": [],
+    "stats": [],
+    "description": "Paona Célestine, illustre voyageuse des plans, utilisait ce bouclier tantôt comme corbeille à fruits, tantôt comme parapluie. Avec votre tendance naturelle à attirer les ennuis, vous n’aurez pas le loisir de l’employer autrement que pour sa fonction première."
+  },
+  {
+    "id": "14627",
+    "idImg": "82069",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82069.png",
+    "name": "Maklier",
+    "set": {
+      "setID": "311",
+      "setName": "Makinoplie"
+    },
+    "type": "Bouclier",
+    "level": "10",
+    "condition": [],
+    "stats": [],
+    "description": "Les Pandikazes utilisent ce bouclier à la fois pour se protéger des coups mais aussi pour casser la croûte lors des longues périodes d’isolement."
+  },
+  {
+    "id": "18668",
+    "idImg": "82017",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82017.png",
+    "name": "Bouclier Volant",
+    "set": [],
+    "type": "Bouclier",
+    "level": "10",
+    "condition": [],
+    "stats": [
+      "4 à 5 Fuite"
+    ],
+    "description": "Aussi étrange que cela puisse paraître, on raconte que ce bouclier en bois et en poils, permet aux aventuriers les plus légers, de s'envoler quelques instants dans les airs, pour impressionner une dernière fois leurs adversaires avant de s'écraser stupidement sur le sol."
+  },
+  {
+    "id": "14596",
+    "idImg": "82087",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82087.png",
+    "name": "Boushincha",
+    "set": {
+      "setID": "303",
+      "setName": "Panoplie Shincha"
+    },
+    "type": "Bouclier",
+    "level": "10",
+    "condition": [],
+    "stats": [],
+    "description": "Contrairement aux Enutrofs, à vos pieds et à l’haleine de votre familier, ce bouclier a gardé toute sa fraîcheur et dégage une odeur relaxante."
+  },
+  {
+    "id": "18714",
+    "idImg": "82155",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82155.png",
+    "name": "Bouclier du tournesol sauvage",
+    "set": [],
+    "type": "Bouclier",
+    "level": "5",
+    "condition": [],
+    "stats": [
+      "2 à 3% Critique"
+    ],
+    "description": "L'artisan à l'origine de ce bouclier voulait l'appeler \"La fleur du mâle\", mais la censure locale l'en a empêché."
+  },
+  {
+    "id": "9482",
+    "idImg": "82037",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82037.png",
+    "name": "Cigaloclier",
+    "set": {
+      "setID": "122",
+      "setName": "Panoplie Cigale"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Si vous avez peur d'effrayer vos amis avec votre tête de monstre, vous pourrez toujours vous cacher derrière ce bouclier pour ressembler à quelqu'un de sympathique."
+  },
+  {
+    "id": "10158",
+    "idImg": "82043",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82043.png",
+    "name": "Bouclier trophée du Dark Vlad",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Pourfendeur du Dark Vlad"
+    ],
+    "description": "Brandissez-le haut et fort, car même après votre mort, c'est le seul souvenir qui témoignera de tous vos efforts."
+  },
+  {
+    "id": "10165",
+    "idImg": "82050",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82050.png",
+    "name": "Bouclier trophée du Koulosse",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Pourfendeur du Koulosse"
+    ],
+    "description": "Brandissez-le haut et fort, car même après votre mort, c'est le seul souvenir qui témoignera de tous vos efforts."
+  },
+  {
+    "id": "10925",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Forgeur de Marteaux Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10932",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Mineur Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10949",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Poissonnier Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "12798",
+    "idImg": "82056",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82056.png",
+    "name": "Bouclier du Survivant",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "5 Résistance Neutre",
+      "5 Résistance Terre",
+      "5 Résistance Feu",
+      "5 Résistance Eau",
+      "5 Résistance Air",
+      "Titre : Terreur de Vulkania"
+    ],
+    "description": "Vous êtes l'un des plus petits mammifères au monde à avoir survécu à l'extinction des reptiliens Grozilla et Grasmera et aux apocalypses qu'ils déclenchaient. Avec un peu de chance vous imiterez vos lointains ancêtres et commencerez à évoluer en une espèce supérieure. Ça ne vous ferait pas de mal."
+  },
+  {
+    "id": "16017",
+    "idImg": "82117",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82117.png",
+    "name": "Bouclier d'Halouine",
+    "set": {
+      "setID": "368",
+      "setName": "Panoplie d'Halouine"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet oeil difforme bloquera les coups aussi bien qu'un crâne d'Iop."
+  },
+  {
+    "id": "17010",
+    "idImg": "82124",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82124.png",
+    "name": "Bouclier Démoniaque",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Chargé d'un pouvoir démoniaque, ce bouclier vous protègera de toutes les attaques venant d’autres dimensions."
+  },
+  {
+    "id": "17801",
+    "idImg": "82135",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82135.png",
+    "name": "Bouclier de Merkator",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Vous n’arriverez pas à vous faire passer pour un steamer de Merkator juste en portant ce bouclier, mais il sera amplement suffisant pour vous protéger des coups de vos ennemis."
+  },
+  {
+    "id": "9483",
+    "idImg": "82038",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82038.png",
+    "name": "Bouclier Boh-Bihn",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier était utilisé par les jeunes Iops qui y rangeaient les images offertes par leurs instituteurs pour les récompenser de leurs efforts. De temps en temps, ils s'amusaient à les faire défiler rapidement pour épater leurs camarades de classe."
+  },
+  {
+    "id": "10159",
+    "idImg": "82044",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82044.png",
+    "name": "Bouclier trophée du Moon",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Pourfendeur du Moon"
+    ],
+    "description": "Brandissez-le haut et fort, car même après votre mort, c'est le seul souvenir qui témoignera de tous vos efforts."
+  },
+  {
+    "id": "10166",
+    "idImg": "82051",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82051.png",
+    "name": "Bouclier trophée du Sphincter Cell",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Pourfendeur du Sphincter Cell"
+    ],
+    "description": "Brandissez-le haut et fort, car même après votre mort, c'est le seul souvenir qui témoignera de tous vos efforts."
+  },
+  {
+    "id": "10926",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Cordonnier Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10933",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Boulanger Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10940",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Forgemage de Dagues Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "12131",
+    "idImg": "82059",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82059.png",
+    "name": "Bouclier qui pète",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Noweliste"
+    ],
+    "description": "Ce bouclier, aussi léger qu'un gaz, sert à se la péter et rien d'autre. Pour une fois cependant, vous l'avez mérité, alors profitez-en bien."
+  },
+  {
+    "id": "13468",
+    "idImg": "82060",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82060.png",
+    "name": "Bouclier du Champion 642",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "14308",
+    "idImg": "82079",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82079.png",
+    "name": "Justoclier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "15116",
+    "idImg": "82090",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82090.png",
+    "name": "Kaniclier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "16070",
+    "idImg": "82118",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82118.png",
+    "name": "Bouclier en Pain d'Épice\t",
+    "set": {
+      "setID": "369",
+      "setName": "Panoplie Pain d'Épice"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce Bouclier en Pain d’Épice particulièrement moelleux possède un pouvoir absorbant à l'épreuve de toutes les attaques. Sa douce odeur vous rappellera la fête et rendra vos combats bien plus agréables. Faites néanmoins attention à ne pas succomber à ses charmes en le dévorant entièrement, cela arrive plus vite qu’on ne le pense…"
+  },
+  {
+    "id": "16241",
+    "idImg": "82121",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82121.png",
+    "name": "Bouclier Cochon",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier est très prisé des femmes d’Amakna qui apprécient de l’avoir à portée de main lorsqu’elles ont un petit creux. Et contrairement au Dragon Cochon, celui-ci ne crie pas lorsqu’on lui mord la queue."
+  },
+  {
+    "id": "17802",
+    "idImg": "82136",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82136.png",
+    "name": "Bouclier du Kimbo",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Au dos de ce bouclier, on peut lire l’inscription suivante : « Kimbo en été ; Le défi du combattant, Un héros vainqueur. »"
+  },
+  {
+    "id": "13849",
+    "idImg": "82075",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82075.png",
+    "name": "Bouclier Stroplante",
+    "set": {
+      "setID": "291",
+      "setName": "Panoplie Stroplante"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cette scie circulaire est la pièce maîtresse d'un engin de mort venu d'ailleurs. Malheureusement il vous manque toutes les autres pièces. Elle fera son affaire en tant que bouclier, si vous arrivez à ne pas vous trancher un bras avec."
+  },
+  {
+    "id": "15117",
+    "idImg": "82089",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82089.png",
+    "name": "Bworklier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "17290",
+    "idImg": "82125",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82125.png",
+    "name": "Bouclier des Pamous",
+    "set": {
+      "setID": "389",
+      "setName": "Panoplie des Pamous"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier rayé bleu et blanc est l'emblème des Pamous : brandissez le haut et fort afin que tout le monde sache quel équipe vous supportez !"
+  },
+  {
+    "id": "18147",
+    "idImg": "82060",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82060.png",
+    "name": "Bouclier du Champion 646",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "9484",
+    "idImg": "82039",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82039.png",
+    "name": "Bouclier Tigré",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier ne protège pas totalement son propriétaire, mais il pourra vous défendre efficacement contre les fantômes."
+  },
+  {
+    "id": "10167",
+    "idImg": "82052",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82052.png",
+    "name": "Bouclier trophée du Bworker",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Pourfendeur de Bworker"
+    ],
+    "description": "Brandissez-le haut et fort, car même après votre mort, c'est le seul souvenir qui témoignera de tous vos efforts."
+  },
+  {
+    "id": "10927",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Bijoutier Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10934",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier de l'Alchimiste Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10941",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Forgemage d'Epées Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10182",
+    "idImg": "82042",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82042.png",
+    "name": "Bouclier solaire",
+    "set": {
+      "setID": "136",
+      "setName": "Panoplie Solaire"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier absorbe les rayons du soleil et les renvoie directement dans le visage de vos adversaires. A défaut de les éblouir avec votre intelligence, vous les aveuglerez temporairement grâce à ce bouclier."
+  },
+  {
+    "id": "10555",
+    "idImg": "82054",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82054.png",
+    "name": "Bouclier du Real Boitar",
+    "set": {
+      "setID": "142",
+      "setName": "Panoplie Real Boitar"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet imposant bouclier porte les traces de nombreux matches. D'apparence robuste, il n'est pourtant d'aucune utilité dans un vrai combat, si ce n'est pour impressionner vos ennemis ou faire ami-ami avec des bouftous."
+  },
+  {
+    "id": "10928",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Forgeur de Dagues Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10935",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Tailleur Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10942",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Forgemage de Marteaux Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "12892",
+    "idImg": "82059",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82059.png",
+    "name": "Rondache qui pète",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "13376",
+    "idImg": "82073",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82073.png",
+    "name": "Bouclier Kiafin",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Certains Wabbits ont prétendu que le Wa affamait ses sujets, allant jusqu'à retirer les Cawottes de la bouche des Tiwabbits. Un jour, les mécontents se sont rebellés et ont pris les armes - ce bouclier était le symbole de leur ralliement. C'était compter sans la détermination et la cruauté de sa Majesté Bourfe 1er : les rongeurs révolutionnaires ont fini en civet."
+  },
+  {
+    "id": "16236",
+    "idImg": "82120",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82120.png",
+    "name": "Bouclier du Batailleur",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Batailleur"
+    ],
+    "description": "Parader avec ce bouclier montrera à votre entourage qu’il ne faut pas vous chercher querelle."
+  },
+  {
+    "id": "17291",
+    "idImg": "82127",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82127.png",
+    "name": "Bouclier des Zoblaks",
+    "set": {
+      "setID": "390",
+      "setName": "Panoplie des Zoblaks"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Il est de tradition chez les Zoblaks de brandir un visage grimaçant peint sur leurs équipements, tout en hurlant des paroles obscures, pour effrayer leurs adversaires et leur apporter la victoire."
+  },
+  {
+    "id": "10169",
+    "idImg": "82041",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82041.png",
+    "name": "Chispouclier",
+    "set": {
+      "setID": "138",
+      "setName": "Panoplie Chisp"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ponch portait fièrement ce bouclier sur sa dragodinde lorsqu'il veillait à la sécurité des ruelles de Bonta."
+  },
+  {
+    "id": "10556",
+    "idImg": "82053",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82053.png",
+    "name": "Bouclier des Bouftons Rouges",
+    "set": {
+      "setID": "143",
+      "setName": "Panoplie des Bouftons Rouges"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet imposant bouclier illustre parfaitement la fougue et l'insolence de la jeunesse. Tout dans l'apparence et rien dans le ventre. C'est le cas de le dire, il ne vous protégera de rien dans un vrai combat, sauf si votre adversaire vous attaque à coups de ballon."
+  },
+  {
+    "id": "10929",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Sculpteur de Bâtons Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10943",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Forgemage de Pelles Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10950",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Forgeur de Boucliers Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "12406",
+    "idImg": "82060",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82060.png",
+    "name": "Bouclier du Champion 639",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Champion du Goultarminator 639"
+    ],
+    "description": "Tenu au-dessus de la tête, ce bouclier protège efficacement du soleil. Il est malheureusement inefficace contre les belles-mères et les ex petites amies."
+  },
+  {
+    "id": "12660",
+    "idImg": "82063",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82063.png",
+    "name": "Bouclier d'Incarnam",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "1% Résistance Neutre JCJ"
+    ],
+    "description": "Ce bouclier affiche aux yeux de tous que vous avez quitté Incarnam et rejoint le Monde des Douze pour vous lancer dans la longue quête des Dofus."
+  },
+  {
+    "id": "12893",
+    "idImg": "82064",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82064.png",
+    "name": "Écu qui pète",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "18093",
+    "idImg": "82138",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82138.png",
+    "name": "Bouclier de Dramak",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier ne vous donnera pas un talent inné pour la comédie mais constituera une protection parfaite contre les projectiles en tout genre que pourraient vous jeter à la figure vos éventuels spectateurs."
+  },
+  {
+    "id": "14201",
+    "idImg": "82078",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82078.png",
+    "name": "Kouloclier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "14636",
+    "idImg": "82060",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82060.png",
+    "name": "Bouclier du Champion 643",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "15242",
+    "idImg": "82091",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82091.png",
+    "name": "Perfidoclier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Déjoueur de Pièges"
+    ],
+    "description": "Après avoir su déjouer les pièges et dissipé l'invisibilité d'un double de Gein, vous avez bien gagné le droit de porter fièrement ce crâne, symbole de votre clairvoyance. Il est à ranger si jamais vous rencontrez le véritable Gein, à moins que vous ne teniez à remettre en jeu votre titre."
+  },
+  {
+    "id": "17286",
+    "idImg": "82129",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82129.png",
+    "name": "Bouclier de l'Agence Touriste",
+    "set": {
+      "setID": "386",
+      "setName": "Panoplie de l'Agence Touriste"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "\"Sur la plage abandonnéééééée, coquillage et crustacééééé...\" En tendant l'oreille, vous pourrez entendre cette douce mélopée provenant de l'intérieur de ce bouclier en forme de coquillage."
+  },
+  {
+    "id": "17527",
+    "idImg": "82131",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82131.png",
+    "name": "Bouclier des 1001 Griffes",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10160",
+    "idImg": "82045",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82045.png",
+    "name": "Bouclier trophée du Chêne Mou",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Pourfendeur du Chêne Mou"
+    ],
+    "description": "Brandissez-le haut et fort, car même après votre mort, c'est le seul souvenir qui témoignera de tous vos efforts."
+  },
+  {
+    "id": "10906",
+    "idImg": "82056",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82056.png",
+    "name": "Bouclier Draconique",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Terreur de la Presqu'île"
+    ],
+    "description": "Façonné à partir d'une écaille de Grozilla, ce lourd bouclier est d'une prestance exceptionnelle. Seuls de rares et redoutables combattants arborent fièrement ce pavois."
+  },
+  {
+    "id": "10937",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Forgeur de Haches Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10944",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Forgemage de Haches Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10951",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Cordomage Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "7070",
+    "idImg": "82009",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82009.png",
+    "name": "Bouclier des Brigandins écorché",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce brave bouclier a vu trop de batailles, il n'est plus bon à rien dans son état. Peut-être que Bouwada, au village Pandala, pourra vous le remplacer."
+  },
+  {
+    "id": "18094",
+    "idImg": "82137",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82137.png",
+    "name": "Bouclier du Blop Multicolore Royal",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Coloré comme l’arc-en-ciel, ce bouclier ressemble plus à une friandise qu’à une protection."
+  },
+  {
+    "id": "18676",
+    "idImg": "82004",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82004.png",
+    "name": "Bouclier du Bûcheron",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "5 à 7 Vitalité"
+    ],
+    "description": "Ce bouclier servait à l'origine aux bûcherons qui voulaient se protéger de la chute des arbres. Il a vite été détourné de son usage, et sert maintenant à se protéger des chutes des ennemis qui ont parfois une fâcheuse tendance à vous tomber dessus sans prévenir."
+  },
+  {
+    "id": "18791",
+    "idImg": "82158",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82158.png",
+    "name": "Bouclier de Ush",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier piquera au vif vos adversaires qui verront rouge avant d'être plongés dans le noir."
+  },
+  {
+    "id": "19097",
+    "idImg": "82174",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82174.png",
+    "name": "Bouclier de la Femme Merveilleuse",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Discrète, soumise, faible, servile, craintive et dépendante : autant de qualités dont la femme merveilleuse est dépourvue, ce qui ne l'empêche pas d'avoir fière allure grâce à ce bouclier."
+  },
+  {
+    "id": "10161",
+    "idImg": "82046",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82046.png",
+    "name": "Bouclier trophée du Dragon Cochon",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Pourfendeur du Dragon Cochon"
+    ],
+    "description": "Brandissez-le haut et fort, car même après votre mort, c'est le seul souvenir qui témoignera de tous vos efforts."
+  },
+  {
+    "id": "10798",
+    "idImg": "82055",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82055.png",
+    "name": "Bouclier du débutant",
+    "set": {
+      "setID": "150",
+      "setName": "Panoplie du débutant"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "1% Résistance Neutre JCJ"
+    ],
+    "description": "Ce bouclier ne vous protégera pas de votre bêtise."
+  },
+  {
+    "id": "10938",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Pêcheur Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10945",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Sculptemage d'Arcs Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10952",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Joaillomage Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "11809",
+    "idImg": "82058",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82058.png",
+    "name": "Stasili",
+    "set": {
+      "setID": "190",
+      "setName": "Panoplatypus"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cette roche très spéciale, extrêmement rare, est excavée par les Enutrofs sans que ces derniers n'aient jamais pu lui trouver quelque valeur marchande. Sombre et friable, elle ne peut servir ni à la construction, ni comme ornement, ni à l'échange. Il semblerait que sa faible résistance puisse en faire une protection peu coûteuse. Néanmoins, l'effet le plus notable de cette roche est de plonger son porteur dans une profonde dépression."
+  },
+  {
+    "id": "14396",
+    "idImg": "82080",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82080.png",
+    "name": "Bouclier d'Alliance",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Appartenir à une guilde et\r\n Appartenir à une alliance"
+    ],
+    "description": "Ce bouclier enchanté évoque l'essence même de votre alliance."
+  },
+  {
+    "id": "16222",
+    "idImg": "82122",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82122.png",
+    "name": "Bouclier Hitche",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "En portant ce bouclier, vous serez visible de loin. Ceci permettra à n’importe qui de suivre vos aventures les plus palpitantes, où que vous soyez, y compris et surtout à la taverne d’Astrub."
+  },
+  {
+    "id": "17009",
+    "idImg": "82123",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82123.png",
+    "name": "Bouclier Gunsen",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Plus qu’une simple protection, ce bouclier à l’esthétique pure et raffinée vous permettra de vous rafraîchir élégamment lors des jours de grande chaleur."
+  },
+  {
+    "id": "17782",
+    "idImg": "82132",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82132.png",
+    "name": "Pwâklier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Offert à l’occasion des fêtes de Pwâk, ce robuste bouclier n’est autre qu’un énorme carré en chocolat ; il ravira le palais de vos ennemis, trop occupés à le dévorer pour s’attaquer à vous."
+  },
+  {
+    "id": "18095",
+    "idImg": "82139",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82139.png",
+    "name": "Fraktaklier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Si vous regardez ce bouclier d’assez près, vous pourrez vous rendre compte qu’il est constitué de multiple versions réduites de lui-même, qui sont constituées de multiple versions réduites d’elle-même, qui sont…"
+  },
+  {
+    "id": "11809",
+    "idImg": "82058",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82058.png",
+    "name": "Stasili",
+    "set": {
+      "setID": "190",
+      "setName": "Panoplatypus"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cette roche très spéciale, extrêmement rare, est excavée par les Enutrofs sans que ces derniers n'aient jamais pu lui trouver quelque valeur marchande. Sombre et friable, elle ne peut servir ni à la construction, ni comme ornement, ni à l'échange. Il semblerait que sa faible résistance puisse en faire une protection peu coûteuse. Néanmoins, l'effet le plus notable de cette roche est de plonger son porteur dans une profonde dépression."
+  },
+  {
+    "id": "18792",
+    "idImg": "82176",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82176.png",
+    "name": "Bouclier du Mantiscore",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Le Mantiscore se sert d'un bouclier similaire pour se défendre des aventuriers trop pressés de lui faire mordre l'épice."
+  },
+  {
+    "id": "19137",
+    "idImg": "82185",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82185.png",
+    "name": "Bouclier Extravagant",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier vous donnera prestance et originalité et vous protégera des coups mortels de vos ennemis au cœur de la bataille. Mais lorsque vous ouvrirez la bouche, il ne vous protégera pas des sarcasmes et des quolibets quand les gens se rendront compte de votre cruel manque de personnalité. C’est un risque à prendre."
+  },
+  {
+    "id": "13712",
+    "idImg": "82077",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82077.png",
+    "name": "Bouclier de Kéké",
+    "set": {
+      "setID": "263",
+      "setName": "Panoplie de Kéké"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier à l'élégance féline résiste aux mauvais coups, aux remarques blessantes et aux jets de tomates pourries. Il peut également servir de griffoir."
+  },
+  {
+    "id": "15617",
+    "idImg": "82060",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82060.png",
+    "name": "Bouclier du Champion 644",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10922",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Bûcheron Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10939",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Chasseur Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10946",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Sculptemage de Baguettes Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10953",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Costumage Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "17271",
+    "idImg": "82130",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82130.png",
+    "name": "Bouclier Exotique",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Avec ce bouclier au bras, vous aurez l'air de revenir d'un long séjour des îles. Dommage que vous n'ayez pas le teint halé qui va avec !"
+  },
+  {
+    "id": "17288",
+    "idImg": "82126",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82126.png",
+    "name": "Bouclier des Grocoricos",
+    "set": {
+      "setID": "387",
+      "setName": "Panoplie des Grocoricos"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Idéal pour parer toute sorte de projectile lancé durant le match, ce bouclier sera votre allié le plus cher pour sortir du stade indemne."
+  },
+  {
+    "id": "18096",
+    "idImg": "82140",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82140.png",
+    "name": "Bouclier du Korriandre",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "La feuille du Korriandre n’est peut-être pas source de vitamine K, mais la solidité de sa structure permet d’en faire un bouclier parfaitement \"inkassable\"."
+  },
+  {
+    "id": "18483",
+    "idImg": "82144",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82144.png",
+    "name": "Bouclier de Katar",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier sert davantage à réduire en charpie vos ennemis lors d'une charge sanglante qu'à vous protéger."
+  },
+  {
+    "id": "18793",
+    "idImg": "82178",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82178.png",
+    "name": "Bouclier de Dantinéa",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier a été remis à Dantinéa quand elle était jeune lors du concours Miss Abysses. Les autres candidates ont mystérieusement disparu avant la remise du prix. Personne n'ose remettre en question son titre aujourd'hui, pourtant tout le monde sait très bien que c’est la sirène Arialle la Sombre qui est la plus belle créature de l’océan."
+  },
+  {
+    "id": "12796",
+    "idImg": "82060",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82060.png",
+    "name": "Bouclier du Champion 640",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "13890",
+    "idImg": "82076",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82076.png",
+    "name": "Glaglaclier",
+    "set": {
+      "setID": "265",
+      "setName": "Panoplie Glagla"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce groin géant, à défaut d'améliorer votre odorat, vous défend de ses défenses quand ça sent le sapin."
+  },
+  {
+    "id": "14305",
+    "idImg": "82082",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82082.png",
+    "name": "Darclier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10163",
+    "idImg": "82048",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82048.png",
+    "name": "Bouclier trophée du Kimbo",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Pourfendeur du Kimbo"
+    ],
+    "description": "Brandissez-le haut et fort, car même après votre mort, c'est le seul souvenir qui témoignera de tous vos efforts."
+  },
+  {
+    "id": "10923",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Forgeur d'Epées Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10930",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Sculpteur de Baguettes Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10947",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Sculptemage de Bâtons Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10954",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Bricoleur Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "17289",
+    "idImg": "82128",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82128.png",
+    "name": "Bouclier des Redroz",
+    "set": {
+      "setID": "388",
+      "setName": "Panoplie des Redroz"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "En cas de défaite, plus besoin de vous cacher derrière des excuses improbables ; avec ce bouclier, vous aurez un masque de la honte disponible 24H sur 24."
+  },
+  {
+    "id": "17784",
+    "idImg": "82133",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82133.png",
+    "name": "Bouclier du Tofu Royal",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Fait à partir d’une plume que vous avez délicatement arrachée au Tofu Royal, ce bouclier est considéré comme l’un des plus résistants au monde. Car comme dit le proverbe, « L'épée n'a jamais émoussé la plume… »"
+  },
+  {
+    "id": "17784",
+    "idImg": "82133",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82133.png",
+    "name": "Bouclier du Tofu Royal",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Fait à partir d’une plume que vous avez délicatement arrachée au Tofu Royal, ce bouclier est considéré comme l’un des plus résistants au monde. Car comme dit le proverbe, « L'épée n'a jamais émoussé la plume… »"
+  },
+  {
+    "id": "18484",
+    "idImg": "82145",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82145.png",
+    "name": "Bouclier du Roi Sadida",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Le Roi Sadida s'était fait fabriquer ce bouclier afin de pouvoir toucher du bois lorsqu'il se retrouvait dans une situation désavantageuse. Qu'il n'y ait plus de Roi Sadida à l'heure actuelle en dit long sur l'efficacité d'un tel geste."
+  },
+  {
+    "id": "18794",
+    "idImg": "82179",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82179.png",
+    "name": "Bouclier de Kankreblath",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Vous étiez peut-être un cancre à l'école mais vous êtes imbattable lorsqu'il s'agit de torturer et massacrer des insectes sans défense. Les bienfaits de l'école buissonnière, sans doute."
+  },
+  {
+    "id": "13240",
+    "idImg": "82072",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82072.png",
+    "name": "Bouclier de Guilde",
+    "set": {
+      "setID": null,
+      "setName": ""
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Appartenir à une guilde et\r\n Niveau de guilde > 29"
+    ],
+    "description": "Ce bouclier magique reflète l'âme de votre guilde."
+  },
+  {
+    "id": "14298",
+    "idImg": "82081",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82081.png",
+    "name": "Fesses Bouclier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "14306",
+    "idImg": "82083",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82083.png",
+    "name": "Bouclier des Rats",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "17002",
+    "idImg": "82060",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82060.png",
+    "name": "Bouclier du Champion 645",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "9481",
+    "idImg": "82036",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82036.png",
+    "name": "Poshoclier",
+    "set": {
+      "setID": "123",
+      "setName": "Panoplie Posh"
+    },
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Le clou planté dans ce bouclier peut servir d'arme de corps à corps si vous voulez crever votre adversaire pour qu'il se dégonfle."
+  },
+  {
+    "id": "10164",
+    "idImg": "82049",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82049.png",
+    "name": "Bouclier trophée du Wa Wabbit",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Pourfendeur du Wa Wabbit"
+    ],
+    "description": "Brandissez-le haut et fort, car même après votre mort, c'est le seul souvenir qui témoignera de tous vos efforts."
+  },
+  {
+    "id": "10924",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Sculpteur d'Arcs Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "10948",
+    "idImg": "82057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82057.png",
+    "name": "Bouclier du Boucher Primordial",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "12797",
+    "idImg": "82060",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82060.png",
+    "name": "Bouclier du Champion 641",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "17800",
+    "idImg": "82134",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82134.png",
+    "name": "Skeunklier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Grand champion du Sain Ballotin, le Skeunk se sert de son instrument pour séduire toute personne qui passe dans son champ de vision. Manque de chance pour lui, vous n’avez pas été très sensible à sa sérénade, et lui avez cassé la figure. Vous voilà maintenant en possession de sa magnifique harpe, ornée du scalp de la victoire, dont vous vous servez comme bouclier."
+  },
+  {
+    "id": "18221",
+    "idImg": "82141",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82141.png",
+    "name": "Tanuklier",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ce bouclier est très prisé des boulistes lors des championnats de pétanque. Grâce à sa nature magique, il confère une protection sans égale contre les coups de boules des mauvais perdants."
+  },
+  {
+    "id": "18315",
+    "idImg": "82142",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82142.png",
+    "name": "Bouclier du Chasseur de Trooll",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "Titre : Chasseur de Troolls"
+    ],
+    "description": "Autrefois reconnaissables à des kilokamètres à cause de leur apparence, les Troolls sont devenus experts en déguisement. Se faisant passer pour des individus tout à fait normaux dans le but de semer plus facilement le chaos, leur nombre est en nette recrudescence dans le monde civilisé. Afin de lutter contre ce fléau, certains aventuriers aux sens aiguisés ont décidé de prendre les armes et portent comme signe distinctif ce bouclier. Attention cependant car il se pourrait que des Troolls plus malins que les autres se cachent dans leurs rangs."
+  },
+  {
+    "id": "18485",
+    "idImg": "82146",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82146.png",
+    "name": "Bouclier de Qilby",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Issu d'une autre époque, les historiens ne comprennent pas comment ce bouclier s'est retrouvé à l'Âge des Dofus."
+  },
+  {
+    "id": "18632",
+    "idImg": "82147",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/82147.png",
+    "name": "Bouclier du Kralamoure géant",
+    "set": [],
+    "type": "Bouclier",
+    "level": "1",
+    "condition": [],
+    "stats": [],
+    "description": "Ses tentacules peuvent attraper l'arme de votre adversaire ou s'introduire dans les nouveaux orifices que vous lui aurez créés."
+  }
+]

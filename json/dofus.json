@@ -1,0 +1,252 @@
+[
+  {
+    "id": "999999",
+    "idImg": "23024",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23024.png",
+    "name": "Dofus Forgelave",
+    "set": [],
+    "type": "Dofus",
+    "level": "180",
+    "condition": [],
+    "stats": [
+      "60 Résistance Poussée",
+      "Ajoute 150 points de bouclier si le lanceur est déplacé via une poussée, une attirance, un échange de place ou porté par un Pandawa. Seuls les ennemis peuvent déclencher cet effet."
+    ],
+    "description": "Malgré son aspect quelque peu insolite, ce Dofus est un authentique oeuf de dragon : ce serait donc dommage de le mettre au clou. Il vous réchauffera durant les longues soirées d'hiver et vous permettra d'organiser des barbecues en été. Évitez tout de même de passer trop près des meules de foin ou des fagots de bois sec, sinon vous risquez d'être pris pour un dangereux pyromane."
+  },
+  {
+    "id": "8698",
+    "idImg": "23016",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23016.png",
+    "name": "Dofus Nébuleux",
+    "set": [],
+    "type": "Dofus",
+    "level": "180",
+    "condition": [],
+    "stats": [
+      "Les tours impairs, augmente de 20% les dommages. Les tours pairs, réduit de 10% les dommages."
+    ],
+    "description": "Créé par l'amour de Khelebragon pour la prêtresse Méthée, ce Dofus est un concentré de nostalgie. Ne le contemplez pas trop longtemps, sans quoi vous risquez de verser quelques larmes… ce qui nuirait sans nul doute à votre réputation d'aventurier au cœur de pierre."
+  },
+  {
+    "id": "7115",
+    "idImg": "23011",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23011.png",
+    "name": "Dofus Ivoire",
+    "set": [],
+    "type": "Dofus",
+    "level": "180",
+    "condition": [],
+    "stats": [],
+    "description": "Cet objet n'est pas encore assez connu des artisans pour que ses caractéristiques puissent être révélées aux éventuels acheteurs."
+  },
+  {
+    "id": "7043",
+    "idImg": "23005",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23005.png",
+    "name": "Dofus des Glaces",
+    "set": [],
+    "type": "Dofus",
+    "level": "180",
+    "condition": [],
+    "stats": [
+      "25 Dommages Air",
+      "25 Dommages Eau",
+      "25 Dommages Feu",
+      "25 Dommages Neutre",
+      "25 Dommages Terre"
+    ],
+    "description": "La légende dit que ce splendide Dofus est sorti du trou givré d'Aguabrial le dragon de l'Eau. La légende ne dit pas qu'il était enrhumé ce jour-là, mais c'est pourtant facile à deviner."
+  },
+  {
+    "id": "739",
+    "idImg": "23003",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23003.png",
+    "name": "Dofus Turquoise",
+    "set": [],
+    "type": "Dofus",
+    "level": "160",
+    "condition": [],
+    "stats": [
+      "10% Critique",
+      "Pour chaque coup critique occasionné, les dommages finaux sont augmentés de 1% pendant 3 tours. Cumulable 10 fois."
+    ],
+    "description": "Le Dofus Turquoise fut créé par Aguabrial, le Dragon de l’Eau. Quand on y pense, c’est fou ce qu’un Dragon peut faire avec de l’eau..."
+  },
+  {
+    "id": "7754",
+    "idImg": "23012",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23012.png",
+    "name": "Dofus Ocre",
+    "set": [],
+    "type": "Dofus",
+    "level": "160",
+    "condition": [],
+    "stats": [
+      "1 PA",
+      "Donne 1 PA si aucune attaque occasionnant des dommages n'a été subie depuis le précédent tour de jeu."
+    ],
+    "description": "Créé par Terrakourial, le Dragon de la Terre, ce Dofus concentre de grands pouvoirs à ne pas mettre entre toutes les mains… Ni entre tous les pieds d’ailleurs."
+  },
+  {
+    "id": "15235",
+    "idImg": "23019",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23019.png",
+    "name": "Dotruche",
+    "set": [],
+    "type": "Dofus",
+    "level": "110",
+    "condition": [],
+    "stats": [
+      "20 Puissance"
+    ],
+    "description": "Œuf de dragon ou œuf de truche ? Peut-être un peu des deux… Après tout, il y a bien un Dragon Cochon, alors pourquoi pas un Dragon Truche ? Ha ha ha."
+  },
+  {
+    "id": "694",
+    "idImg": "23001",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23001.png",
+    "name": "Dofus Pourpre",
+    "set": [],
+    "type": "Dofus",
+    "level": "110",
+    "condition": [],
+    "stats": [
+      "80 Puissance",
+      "Pour chaque attaque à distance reçue, les dommages finaux occasionnés sont augmentés de 1% pendant 1 tour. Les effets peuvent se cumuler 10 fois."
+    ],
+    "description": "C’est le Dragon du Feu Ignemikhal qui créa le Dofus Pourpre, un Œuf dont le moins qu’on puisse dire, c’est qu’il sent le soufre - mais il sent bien d’autres choses encore…"
+  },
+  {
+    "id": "737",
+    "idImg": "23002",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23002.png",
+    "name": "Dofus Émeraude",
+    "set": [],
+    "type": "Dofus",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "200 Vitalité",
+      "À la fin du tour, confère des points de bouclier pour chaque ennemi au contact. Les invocations ne sont pas comptabilisées."
+    ],
+    "description": "Plus vert qu’un Tofu malade, le Dofus Émeraude fut créé par Aerafal, le Dragon de l’Air. Pour créer quelque chose d’aussi vert, il devait avoir le mal de l’air. Un comble, non ?"
+  },
+  {
+    "id": "13344",
+    "idImg": "23018",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23018.png",
+    "name": "Dolmanax",
+    "set": [],
+    "type": "Dofus",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "50 Chance",
+      "50 Intelligence",
+      "50 Force",
+      "50 Agilité"
+    ],
+    "description": "Ce Dofus change de couleur en fonction des saisons. Chaud et doré au cœur de l’été, il devient froid comme la glace à l’approche de l’hiver. Il aurait été pondu par un dragon tombé amoureux d’un colporteur qui se serait présenté à l’entrée de sa caverne pour lui refourguer un vieux calendrier."
+  },
+  {
+    "id": "6980",
+    "idImg": "23004",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23004.png",
+    "name": "Dofus Vulbis",
+    "set": [],
+    "type": "Dofus",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "1 PM",
+      "Les dommages occasionnés sont augmentés de 10% pendant 1 tour si aucune attaque occasionnant des dommages n'a été subie depuis le précédent tour de jeu."
+    ],
+    "description": "Ce Dofus a été pondu par un dragon qui a décidé de rester anonyme. Les aventuriers les plus avisés se demandent toujours pourquoi."
+  },
+  {
+    "id": "8072",
+    "idImg": "23010",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23010.png",
+    "name": "Dofus Kaliptus",
+    "set": [],
+    "type": "Dofus",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "6 à 30 Prospection"
+    ],
+    "description": "Personne ne connaît le dragon à l'origine de ce Dofus. On raconte juste qu'il aurait ingéré une quantité effroyable de feuilles de Kaliptus, avant de pondre et de mourir d'une terrible crise d'aérophagie."
+  },
+  {
+    "id": "16061",
+    "idImg": "23020",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23020.png",
+    "name": "Dofus des Veilleurs",
+    "set": [],
+    "type": "Dofus",
+    "level": "100",
+    "condition": [],
+    "stats": [
+      "En début de tour, rend 7% de points de vie aux alliés alignés."
+    ],
+    "description": "Ce Dofus a été façonné d'après le souvenir nébuleux d'un authentique œuf de Dragon. Lorsque vous le touchez, des moments oubliés vous reviennent en mémoire, comme si vous aviez mordu dans une madeleine de Marcelle Rouste : vous revivez votre arrivée sur Incarnam, le massacre de votre premier boufton… Ah, c'était le bon temps."
+  },
+  {
+    "id": "10907",
+    "idImg": "23017",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23017.png",
+    "name": "Dokille",
+    "set": [],
+    "type": "Dofus",
+    "level": "80",
+    "condition": [],
+    "stats": [
+      "10 Prospection"
+    ],
+    "description": "Vous y étiez, vous l'avez fait : participer au plus grand contrôle de natalité Draconique. Conséquence de quoi vous avez dû manger des omelettes pendant des semaines."
+  },
+  {
+    "id": "17078",
+    "idImg": "23022",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23022.png",
+    "name": "Dokoko",
+    "set": [],
+    "type": "Dofus",
+    "level": "80",
+    "condition": [],
+    "stats": [
+      "Tous les 3 tours à partir du tour 4, rend 10% de ses points de vie maximum."
+    ],
+    "description": "Les Kannibouls prétendent que l'Arbre de Moon est en réalité un dragon endormi : venu de la lune, l'être immortel aurait pris la forme d'un grand kokotier pour donner un peu d'ombre à une princesse souffrant de la chaleur du soleil. Il se serait ensuite assoupi… Le Dokoko, fruit de l'Arbre de Moon, serait donc un authentique Dofus ? Permettez-nous d'émettre quelques doutes."
+  },
+  {
+    "id": "972",
+    "idImg": "23006",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23006.png",
+    "name": "Dofus Cawotte",
+    "set": [],
+    "type": "Dofus",
+    "level": "60",
+    "condition": [],
+    "stats": [
+      "60 Sagesse",
+      "Donne 25 esquive PA si un malus de PM est subi, ou 25 esquive PM si un malus PA est subi. Les deux effets ne sont pas cumulables et durent 1 tour."
+    ],
+    "description": "Si un dragon avait véritablement pondu cet œuf, il serait très aimable. Plus en tout cas que le Wa Wabbit, qui s'en sert pour attirer les aventuriers sur son île afin de les dépouiller de leur équipement et, accessoirement, de leur fierté. Un moyen ingénieux et peu onéreux de se procurer les panoplies dernier cri sans bouger de chez soi."
+  },
+  {
+    "id": "7113",
+    "idImg": "23009",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/23009.png",
+    "name": "Dofawa",
+    "set": [],
+    "type": "Dofus",
+    "level": "6",
+    "condition": [],
+    "stats": [
+      "1 Vitalité"
+    ],
+    "description": "Ce Dofus ressemble étrangement à un œuf de Dragodinde sauvage... Pour une fois, les apparences ne sont peut-être pas trompeuses."
+  }
+]

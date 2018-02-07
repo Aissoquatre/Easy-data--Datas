@@ -1,0 +1,488 @@
+[
+  {
+    "id": "19591",
+    "idImg": "17400",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/17400.png",
+    "name": "Sac Volcanique",
+    "set": {
+      "setId": "454",
+      "setName": "Panoplie Volcanique"
+    },
+    "type": "Sac à dos",
+    "level": "200",
+    "condition": [],
+    "stats": [
+      "351 à 400 Vitalité",
+      "61 à 80 Force",
+      "61 à 80 Intelligence",
+      "31 à 40 Sagesse",
+      "11 à 15 Prospection",
+      "11 à 15 Tacle",
+      "11 à 15 Dommages Feu",
+      "11 à 15 Dommages Terre",
+      "11 à 15 Dommages Neutre",
+      "7 à 10% Résistance Terre",
+      "9 à 12 Soins",
+      "2 à 3% Critique"
+    ],
+    "description": "Ce sac vous permettra de communiquer facilement avec des signaux de fumée. Mais attention, il n'y a pas de fumée sans feu."
+  },
+  {
+    "id": "13584",
+    "idImg": "81065",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81065.png",
+    "name": "Coffresac du Koalak",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "127",
+    "condition": [],
+    "stats": [
+      "151 à 200 Vitalité",
+      "31 à 40 Force",
+      "21 à 30 Sagesse",
+      "4 à 5% Critique",
+      "-1 Portée",
+      "401 à 600 Pods",
+      "301 à 400 Initiative",
+      "6 à 8 Dommages Neutre",
+      "6 à 8 Dommages Terre",
+      "7 à 10% Résistance Neutre",
+      "4 à 6 Retrait PM",
+      "4 à 6 Tacle",
+      "11 à 15 Résistance Poussée"
+    ],
+    "description": "Ce coffre qui se porte comme un sac est une invention fort pratique. Malheureusement, il semblerait qu'il attire les jeunes Koalaks et les ennuis. Seuls les aventuriers avec le dos suffisamment large peuvent espérer l'utiliser sans être poursuivis par la guigne."
+  },
+  {
+    "id": "12856",
+    "idImg": "81063",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81063.png",
+    "name": "Sacoche de Redolphe",
+    "set": {
+      "setID": "233",
+      "setName": "Panoplie de Redolphe"
+    },
+    "type": "Sac à dos",
+    "level": "85",
+    "condition": [],
+    "stats": [
+      "41 à 60 Vitalité",
+      "31 à 40 Puissance",
+      "1 Portée",
+      "1 Invocations",
+      "3 à 4 Résistance Terre",
+      "3 à 4 Résistance Feu",
+      "3 à 4 Résistance Eau",
+      "3 à 4 Résistance Air",
+      "3 à 4% Résistance Neutre",
+      "3 à 4 Esquive PM",
+      "4 à 5 Fuite"
+    ],
+    "description": "La facilité d'accès aux bouteilles qu'elle procure en combat rend cette sacoche très populaire auprès des aventuriers Pandawas."
+  },
+  {
+    "id": "13262",
+    "idImg": "81064",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81064.png",
+    "name": "Sac Rebleux",
+    "set": {
+      "setID": "250",
+      "setName": "Panoplie Submersible"
+    },
+    "type": "Sac à dos",
+    "level": "80",
+    "condition": [],
+    "stats": [
+      "Augmente les dégâts de base du sort Ancrage de 3",
+      "Augmente de 1 le nombre de lancer maximal par cible du sort Courant",
+      "Réduit de 1 le délai de relance du sort Armure de Sel",
+      "Désactive la ligne de vue du sort Gardienne"
+    ],
+    "description": "Ce sac-bouteille de plongée est censé contenir de l'air comprimé pour l'exploration des profondeurs. Vous l'avez rempli de bière sous pression à la place. On hésite entre crier au génie ou à l'ivrogne."
+  },
+  {
+    "id": "6830",
+    "idImg": "81058",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81058.png",
+    "name": "Petit sac d'écolier du Chef Crocodaille",
+    "set": {
+      "setID": "20",
+      "setName": "Panoplie du Chef Crocodaille"
+    },
+    "type": "Sac à dos",
+    "level": "70",
+    "condition": [],
+    "stats": [
+      "21 à 30 Vitalité",
+      "16 à 20 Sagesse",
+      "21 à 30 Agilité",
+      "1 à 2% Critique",
+      "301 à 350 Pods",
+      "3 à 5% Résistance Feu",
+      "3 à 5% Résistance Eau"
+    ],
+    "description": "A Amakna aussi, la rentrée scolaire est une épreuve douloureuse pour les jeunes enfants. Surtout pour les jeunes Iops, pour qui la rentrée des classes est synonyme de véritable calvaire, parsemé d'épreuves insurmontables. Réconfortez-les avec ce magnifique sac d'écolier en peau et en écailles de Chef Crocodaille, et rembourré d'une multitude de poils."
+  },
+  {
+    "id": "7888",
+    "idImg": "81002",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81002.png",
+    "name": "Sac du Koulosse",
+    "set": {
+      "setID": "44",
+      "setName": "Panoplie du Koulosse"
+    },
+    "type": "Sac à dos",
+    "level": "69",
+    "condition": [],
+    "stats": [
+      "51 à 150 Vitalité",
+      "-1 à -100 Force",
+      "-1 à -100 Intelligence",
+      "-1 à -100 Agilité",
+      "-1 à -100 Chance",
+      "5 à 7 Dommages",
+      "101 à 500 Pods",
+      "1 à 5% Résistance Eau",
+      "1 à 5% Résistance Terre"
+    ],
+    "description": "Ce sac permet au Koulosse de garder au frais ses feuilles de Kaliptus ou d'étouffer les Koalaks un peu trop entreprenants."
+  },
+  {
+    "id": "1707",
+    "idImg": "81032",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81032.png",
+    "name": "Sac du Grand Aventurier",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "60",
+    "condition": [],
+    "stats": [
+      "501 à 1000 Pods"
+    ],
+    "description": "C'est le sac idéal pour ranger tous vos pains et potions lorsque vous partez en voyage vers des destinations exotiques, comme l'île de Moon."
+  },
+  {
+    "id": "6501",
+    "idImg": "81057",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81057.png",
+    "name": "Sac-Cawotte",
+    "set": {
+      "setID": "11",
+      "setName": "Panoplie de la Cawotte"
+    },
+    "type": "Sac à dos",
+    "level": "60",
+    "condition": [],
+    "stats": [
+      "801 à 1000 Pods",
+      "3 à 5% Résistance Eau",
+      "3 à 5% Résistance Terre",
+      "31 à 40 Intelligence",
+      "3 à 5 Dommages Feu"
+    ],
+    "description": "Avec ce sac sur les épaules, vous pouvez partir à l'aventure sans vous soucier des problèmes alimentaires. En effet, même si la Cawotte est vide comme un crâne de Iop, les feuilles du dessus repoussent toutes seules, de quoi se faire de bonnes tisanes."
+  },
+  {
+    "id": "16073",
+    "idImg": "81068",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81068.png",
+    "name": "Hotte de Nowel",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "60",
+    "condition": [],
+    "stats": [
+      "251 à 300 Pods",
+      "31 à 40 Vitalité",
+      "31 à 40 Chance",
+      "11 à 15 Prospection"
+    ],
+    "description": "Lorsque Papa Nowel descend dans les chaumières d’Amakna, c’est généralement pour y laisser des cadeaux par milliers aux jeunes aventuriers qui rêvent en grand. Cette fois-ci, c’est sa Hotte qu’il vous a laissée ; c'est peut-être pour qu’à votre tour, vous soyez celui qui apportera la magie de Nowel dans le Monde des Douze… "
+  },
+  {
+    "id": "12414",
+    "idImg": "81062",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81062.png",
+    "name": "Sac de Voyage du Parfait Petit Vulkain",
+    "set": {
+      "setID": "219",
+      "setName": "Panoplie du Vulkain"
+    },
+    "type": "Sac à dos",
+    "level": "50",
+    "condition": [],
+    "stats": [
+      "21 à 30 Sagesse",
+      "401 à 600 Pods",
+      "5 à 6 Dommages Feu",
+      "3 à 4 Fuite"
+    ],
+    "description": "Ce sac sur le dos, vous voilà paré pour explorer Vulkania en toute sécurité. Attention, les artisans Vulkains ne donnent aucune garantie concernant son efficacité en dehors du port de Vulkania... bien que certains prétendent qu'un S.V.P.P.V. bien garni peut s'avérer indispensable quand on a la dalle et que l'on veut casser la croûte dans un coin."
+  },
+  {
+    "id": "1705",
+    "idImg": "81031",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81031.png",
+    "name": "Sac de l'Aventurier",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "40",
+    "condition": [],
+    "stats": [
+      "251 à 300 Pods"
+    ],
+    "description": "C'est le sac idéal pour ranger tous vos pains et potions lorsque vous partez pour plusieurs mois, dans le labyrinthe par exemple."
+  },
+  {
+    "id": "9945",
+    "idImg": "81033",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81033.png",
+    "name": "Sac de Bouba le Prophète",
+    "set": {
+      "setID": "117",
+      "setName": "Panoplie de l'empire"
+    },
+    "type": "Sac à dos",
+    "level": "38",
+    "condition": [],
+    "stats": [
+      "21 à 30 Force",
+      "11 à 20 Vitalité",
+      "1 Portée"
+    ],
+    "description": "Bouba a toujours prétendu être un prophète, porteur d'un message qu'il a fini par lui-même oublier. Reconverti pendant plusieurs années comme chasseur de primes, il a terminé sa triste carrière, digéré dans le ventre d'une créature des sables."
+  },
+  {
+    "id": "15658",
+    "idImg": "81067",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81067.png",
+    "name": "Shushac",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "30",
+    "condition": [],
+    "stats": [
+      "21 à 30 Vitalité",
+      "11 à 15 Puissance",
+      "11 à 15 Sagesse",
+      "1 Portée"
+    ],
+    "description": "Ce sac a une très bonne capacité de stockage mais il vaut mieux ne pas trop le contrarier pour éviter certaines catastrophes. Il n'est par exemple pas rare que certains objets stockés à l'intérieur tombent par le dessous du Shushac alors qu'à priori aucun trou n'a été fait. Les joies de la cohabitation avec un Shushu !"
+  },
+  {
+    "id": "7108",
+    "idImg": "81060",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81060.png",
+    "name": "Larvasac",
+    "set": {
+      "setID": "33",
+      "setName": "Panoplie Larvesque"
+    },
+    "type": "Sac à dos",
+    "level": "27",
+    "condition": [],
+    "stats": [
+      "6 à 20 Vitalité",
+      "1 à 2 Dommages"
+    ],
+    "description": "Ce sac  original mais sans fioritures était très en vogue il y a bien longtemps. Un exemple typique du mauvais goût de vos ancêtres."
+  },
+  {
+    "id": "11810",
+    "idImg": "81061",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81061.png",
+    "name": "La Ruche",
+    "set": {
+      "setID": "190",
+      "setName": "Panoplatypus"
+    },
+    "type": "Sac à dos",
+    "level": "25",
+    "condition": [],
+    "stats": [
+      "1 à 5 Sagesse",
+      "1 Invocations",
+      "56 à 110 Pods",
+      "1 à 10 Puissance"
+    ],
+    "description": "Les ruches sont rares, très rares. Parce que les abeilles sont nos amies, parce que nous devons tartiner notre pain de bon miel, parce que nos fleurs aiment être butinées, portons nous-mêmes nos ruches ! Et de ces ventres viendra couler le jus de ces adorables petites choses, dignes héritières de la mythique petite déesse Beebee."
+  },
+  {
+    "id": "10971",
+    "idImg": "81025",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81025.png",
+    "name": "Sac ripant",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "20",
+    "condition": [],
+    "stats": [
+      "201 à 250 Pods"
+    ],
+    "description": "Équipé de ce sac, vous pourrez faire les quatre cents coups. Et toujours avec le sourire, petit galopin va !"
+  },
+  {
+    "id": "1703",
+    "idImg": "81029",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81029.png",
+    "name": "Sac du Grand Récolteur",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "20",
+    "condition": [
+      "Bûcheron > Niv. 120 ou\r\n Mineur > Niv. 120 ou\r\n Pêcheur > Niv. 120 ou\r\n Paysan > Niv. 120 ou\r\n Alchimiste > Niv. 120 ou\r\n Chasseur > Niv. 120"
+    ],
+    "stats": [
+      "601 à 800 Pods"
+    ],
+    "description": "Ce sac est spécialement étudié pour contenir de nombreuses ressources collectables.  Seuls les vrais collecteurs sont à même de pouvoir le porter."
+  },
+  {
+    "id": "1704",
+    "idImg": "81030",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81030.png",
+    "name": "Sac du Staca Noviste",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "20",
+    "condition": [
+      "Bûcheron > Niv. 120 ou\r\n Mineur > Niv. 120 ou\r\n Pêcheur > Niv. 120 ou\r\n Paysan > Niv. 120 ou\r\n Alchimiste > Niv. 120 ou\r\n Chasseur > Niv. 120",
+      "Bûcheron > Niv. 180 ou\r\n Mineur > Niv. 180 ou\r\n Pêcheur > Niv. 180 ou\r\n Paysan > Niv. 180 ou\r\n Alchimiste > Niv. 180 ou\r\n Chasseur > Niv. 180"
+    ],
+    "stats": [
+      "1001 à 1500 Pods"
+    ],
+    "description": "On raconte qu'un Mineur célèbre était capable de miner sans arrêt pendant des mois dans 4 mines différentes en même temps. Il s'agit en fait d'une légende inventée par la guilde du Marteau-Faucille pour inciter ses mineurs à récolter plus."
+  },
+  {
+    "id": "8131",
+    "idImg": "81003",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81003.png",
+    "name": "Sac du Paysan",
+    "set": {
+      "setID": "47",
+      "setName": "Panoplie du Paysan"
+    },
+    "type": "Sac à dos",
+    "level": "18",
+    "condition": [],
+    "stats": [
+      "16 à 20 Chance",
+      "161 à 200 Pods"
+    ],
+    "description": "Ce sac très en vogue chez les jeunes écoliers, est idéal pour entreposer des farines animales et végétales. Une fois ouvert, puis déplié et déchiré le long des coutures, il pourra vous servir de jupe si vous n'avez pas peur de montrer vos cuisses velues."
+  },
+  {
+    "id": "6916",
+    "idImg": "81059",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81059.png",
+    "name": "Sac du Petit Moskito",
+    "set": {
+      "setID": "23",
+      "setName": "Panoplie Moskito"
+    },
+    "type": "Sac à dos",
+    "level": "16",
+    "condition": [],
+    "stats": [
+      "21 à 30 Chance",
+      "71 à 100 Pods",
+      "1 Dommages Eau"
+    ],
+    "description": "Ce sac en peau et en ailes de Moskitos faisait jadis fureur à la sortie des écoles. Aujourd'hui, il est totalement démodé, et a été remplacé dans le coeur des enfants, par le Petit sac d'écolier du Chef Crocodaille. Du grand n'importe quoi, quand on voit que ce dernier est largement plus cher, et surtout beaucoup plus laid. Une sombre histoire de mode."
+  },
+  {
+    "id": "1702",
+    "idImg": "81028",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81028.png",
+    "name": "Sac du Récolteur",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "15",
+    "condition": [
+      "Bûcheron > Niv. 80 ou\r\n Mineur > Niv. 80 ou\r\n Pêcheur > Niv. 80 ou\r\n Paysan > Niv. 80 ou\r\n Alchimiste > Niv. 80 ou\r\n Chasseur > Niv. 80"
+    ],
+    "stats": [
+      "251 à 400 Pods"
+    ],
+    "description": "Ce sac est spécialement étudié pour contenir des ressources collectables.  Seuls les vrais collecteurs sont à même de pouvoir le porter."
+  },
+  {
+    "id": "1699",
+    "idImg": "81027",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81027.png",
+    "name": "Sac du Petit Aventurier",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "10",
+    "condition": [],
+    "stats": [
+      "151 à 200 Pods"
+    ],
+    "description": "Ce sac est destiné à ceux qui ne partent pas trop loin de chez eux, et ont besoin d'emmener des choses pas importantes du tout, comme des Planches de Frêne par exemple."
+  },
+  {
+    "id": "1698",
+    "idImg": "81026",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81026.png",
+    "name": "Sac du Petit Récolteur",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "6",
+    "condition": [
+      "Bûcheron > Niv. 40 ou\r\n Mineur > Niv. 40 ou\r\n Pêcheur > Niv. 40 ou\r\n Paysan > Niv. 40 ou\r\n Alchimiste > Niv. 40 ou\r\n Chasseur > Niv. 40"
+    ],
+    "stats": [
+      "151 à 250 Pods"
+    ],
+    "description": "Ce sac est spécialement étudié pour contenir quelques ressources collectables.  Seuls les vrais collecteurs sont à même de pouvoir le porter."
+  },
+  {
+    "id": "1697",
+    "idImg": "81025",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81025.png",
+    "name": "Petit Sac en Laine de Boufton",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "71 à 100 Pods"
+    ],
+    "description": "Ce petit sac ne fera pas de vous une célébrité, mais il aura au moins le mérite de vous permettre de ranger quelques effets personnels."
+  },
+  {
+    "id": "7581",
+    "idImg": "81001",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81001.png",
+    "name": "Sakananas",
+    "set": [],
+    "type": "Sac à dos",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "201 à 400 Pods"
+    ],
+    "description": "Ce sac ressemble à s'y méprendre à un ananas magique, peut-être parce qu'il s'agit d'un ananas magique transformé en sac pour des raisons qui restent encore inconnues. Contrairement au sac Cawotte, le Sakananas n'est pas vidé, vous ne pouvez donc rien y mettre, et il est en permanence très lourd, un peu comme votre ami Iop perdu depuis plusieurs mois dans la taverne d'Astrub. Contrairement aux apparences, ce sac ne fait pas partie de la célèbre panoplie Ananas. On vous a une fois de plus menti."
+  },
+  {
+    "id": "15239",
+    "idImg": "81066",
+    "imgPath": "http://staticns.ankama.com/dofus/www/game/items/200/81066.png",
+    "name": "Kamasac",
+    "set": {
+      "setID": "339",
+      "setName": "Kamaplie"
+    },
+    "type": "Sac à dos",
+    "level": "1",
+    "condition": [],
+    "stats": [
+      "2% Critique",
+      "5 Prospection",
+      "10 Puissance"
+    ],
+    "description": "Un kama peut en cacher un autre. Si celui posé sur le haut de ce sac est un leurre visant à piéger les voleurs, il n'empêche que cette tirelire contient bien d'autres trésors !"
+  }
+]
