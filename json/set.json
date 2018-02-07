@@ -1283,6 +1283,44 @@
     ]
   },
   {
+    "id": "453",
+    "name": "Panoplie Ardente",
+    "level": "200",
+    "items": [
+      [
+        [
+          "11332"
+        ],
+        "Chaussures Ardentes"
+      ],
+      [
+        [
+          "16537"
+        ],
+        "Masque Ardent"
+      ],
+      [
+        [
+          "17399"
+        ],
+        "Cape Ardente"
+      ]
+    ],
+    "bonus": [
+      [
+        "10 Tacle",
+        "10 Retrait PA",
+        "10 Soins"
+      ],
+      [
+        "10 Tacle",
+        "10 Retrait PA",
+        "10 Soins",
+        "1 PA"
+      ]
+    ]
+  },
+  {
     "id": "276",
     "name": "Panoplie du Granduk",
     "level": "200",
@@ -1469,6 +1507,44 @@
       ],
       [
         "2 Portée",
+        "1 PA"
+      ]
+    ]
+  },
+  {
+    "id": "454",
+    "name": "Panoplie Volcanique",
+    "level": "200",
+    "items": [
+      [
+        [
+          "1302"
+        ],
+        "Amulette Volcanique"
+      ],
+      [
+        [
+          "17400"
+        ],
+        "Sac Volcanique"
+      ],
+      [
+        [
+          "11333"
+        ],
+        "Sabots Volcaniques"
+      ]
+    ],
+    "bonus": [
+      [
+        "50 Résistance Poussée",
+        "10 Tacle",
+        "5 Retrait PM"
+      ],
+      [
+        "50 Résistance Poussée",
+        "10 Tacle",
+        "5 Retrait PM",
         "1 PA"
       ]
     ]
@@ -1668,6 +1744,40 @@
     ]
   },
   {
+    "id": "455",
+    "name": "Panoplie Submergée",
+    "level": "200",
+    "items": [
+      [
+        [
+          "10330"
+        ],
+        "Sangle Oriole"
+      ],
+      [
+        [
+          "16539"
+        ],
+        "Chapeau de Tournoyé"
+      ],
+      [
+        [
+          "17401"
+        ],
+        "Cape de Crânonier"
+      ]
+    ],
+    "bonus": [
+      [
+        "20 Esquive PA"
+      ],
+      [
+        "20 Esquive PA",
+        "1 PA"
+      ]
+    ]
+  },
+  {
     "id": "331",
     "name": "Panoplie de Nidas",
     "level": "200",
@@ -1815,6 +1925,42 @@
       [
         "1000 Initiative",
         "150 Vitalité",
+        "1 PA"
+      ]
+    ]
+  },
+  {
+    "id": "456",
+    "name": "Panoplie de Bethel",
+    "level": "200",
+    "items": [
+      [
+        [
+          "10331"
+        ],
+        "Culotte de Bethel"
+      ],
+      [
+        [
+          "11334"
+        ],
+        "Chaussons de Macrab"
+      ],
+      [
+        [
+          "16540"
+        ],
+        "Masque de Funespadon"
+      ]
+    ],
+    "bonus": [
+      [
+        "10 Retrait PA",
+        "1 Portée"
+      ],
+      [
+        "10 Retrait PA",
+        "1 Portée",
         "1 PA"
       ]
     ]
@@ -20915,5 +21061,31 @@
         "5 Sagesse"
       ]
     ]
+  },
+  {
+    "id": "452",
+    "name": "Panoplie Divine",
+    "level": "1",
+    "items": [
+      [
+        [
+          "82191"
+        ],
+        "Bouclier Divin"
+      ],
+      [
+        [
+          "16541"
+        ],
+        "Casque Divin"
+      ],
+      [
+        [
+          "17404"
+        ],
+        "Cape Divine"
+      ]
+    ],
+    "bonus": []
   }
 ]

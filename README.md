@@ -20,7 +20,7 @@ Actuellement disponible :
 * Dofus (100%)
 * Sac à dos (100%)
 * Trophées (100%)
-* Panoplies (98%)
+* Panoplies (100%)
 * Familiers (0%)
 * Montures (0%)
 * Ressources (0%)
