@@ -949,7 +949,6 @@
     "type": "Bottes",
     "level": "200",
     "condition": [
-      "PA < 12",
       "PA < 12"
     ],
     "stats": [
